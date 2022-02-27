@@ -1,0 +1,2494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Covenant to be the Lord's people, and to walk after the Lord signed by the meeting at Horsly-Down in Southwark.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87350</idno>
+            <idno type="STC">Wing J100</idno>
+            <idno type="STC">ESTC R43655</idno>
+            <idno type="EEBO-CITATION">42475063</idno>
+            <idno type="OCLC">ocm 42475063</idno>
+            <idno type="VID">151188</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151188)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1761:1 or 2248:16b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Covenant to be the Lord's people, and to walk after the Lord signed by the meeting at Horsly-Down in Southwark.</title>
+                  <author>Jacob, Joseph, 1667?-1722.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Use of the Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes The catechism, or Brief instruction in the faith and order of the Gospel, for the church of Christ meeting at Horsly-Down in Southwark. London, 1700 (Wing 2nd ed. C1477), which is filmed and cataloged separately at reel 1629:18.</note>
+                  <note>Reproductions of originals in: Bodleian Library and Congregational Library (London, England).</note>
+                  <note>Item at reel 2248:16b with: The covenant and catechism of the church ... at Horsly-Down / J. Jacobs. London, 1700 (Wing J99A).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptists --  Creeds --  Early works to 1800.</term>
+               <term>Baptists --  Catechisms --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:151188:1"/>
+                  <pb facs="tcp:151188:1"/>
+                  <p>THE <hi>Covenant</hi> To be the LORD'S PEOPLE, AND TO Walk after
+the LORD. Sign'd by the CHURCH of CHRIST. Meeting at <hi>Horſly-Down</hi> in
+<hi>Southwark.</hi>
+                  </p>
+                  <q>
+                     <bibl>
+                        <hi>Deut. 29.1. With 2 Chron. 23.16. &amp; 34,
+31.</hi>
+                     </bibl> 
+                     <p>Theſe are the Words of the Covenant which the Lord Commanded,
+to be the <hi>Lord's People,</hi> and to <hi>Walk after the Lord,</hi> and to
+<hi>keep</hi> his Commandments, and his Teſtimonies, and his Statutes, with
+the <hi>whole</hi> heart, and with the <hi>whole</hi> ſoul, and to
+<hi>perform</hi> the <hi>words</hi> of the Covenant which are <hi>written</hi>
+in this Book.</p>
+                  </q>
+                  <p>
+                     <hi>LONDON:</hi> Printed for the Uſe of the Church. 1700.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:151188:2"/>
+                  <pb n="3" facs="tcp:151188:2"/>
+                  <head>
+                     <hi>In <hi>the</hi>
+                     </hi> Name,<note place="margin">1
+<hi>Cor.</hi> 5, 4.</note> Spirit <hi>and</hi> Power <hi>of our Lord</hi> JESUS
+CHRIST:</head>
+                  <p>WE, an eſcaped Remnant of poor Sinners of the Gentiles,<note place="margin">
+                        <hi>Iſa.</hi> 37.31. <hi>Judg,</hi> 20.1, 11. 1 <hi>Cor.</hi>
+14.23. <hi>Deut.</hi> 29.1. 1 <hi>Sam.</hi> 7.2. <hi>Iſa.</hi> 37.3. 1
+<hi>Cor.</hi> 4.9. <hi>Nehem.</hi> 9.2. <hi>Ezek.</hi> 36.31. <hi>Rom</hi>
+5.12. <hi>Jer.</hi> 5.23. <hi>Ezek.</hi> 16.6, 8. 1 <hi>Pet.</hi> 2.3.</note>
+knit as <hi>one</hi> Man, and aſſembled toge<g ref="char:EOLhyphen"/>ther in <hi>one</hi> Place, to
+Renew Covenant with the Lord, and to lament after him in this Day of Trouble,
+Rebuke and Blaſphemy; Do before <hi>God, Angels</hi> and <hi>Men,</hi> moſt
+ſolemnly confeſs, be<g ref="char:EOLhyphen"/>wail, and loath our Selves for our
+<hi>Apo<g ref="char:EOLhyphen"/>ſtacy</hi> from God in <hi>Adam,</hi> and for <hi>all</hi> our
+abominable revoltings in <hi>Heart</hi> and <hi>Life,</hi> as well
+<hi>before,</hi> as <hi>ſince</hi> the time of Love and Life came, wherein we
+taſted that the Lord is gracious: <hi>Eſpecially</hi> do we judge our
+ſelves,<note place="margin">1 <hi>Cor.</hi> 11.31. <hi>Levit.</hi> 10.3.
+<hi>Jer.</hi> 7.31. <hi>Ezra</hi> 9.10, 15. <hi>Neh.</hi> 13.23, 27
+<hi>Mal.</hi> 2.11, 12. <hi>Hoſea</hi> 6.7.</note> for that there have been
+found with us, thoſe great Evils of <hi>offering</hi> unto the Lord ſtrange
+Fire (Worſhip which he commanded not) Of <hi>Marrying</hi> ſtrangers to God
+and his Covenant; and of <hi>dealing treache<g ref="char:EOLhyphen"/>rouſly</hi> with God in his
+Covenant, to follow after lying Vanities; For theſe,<note place="margin">
+                        <hi>Jonah</hi> 2.8.</note> and <hi>all</hi> our innumerable evils,
+we ab<g ref="char:EOLhyphen"/>hor our ſelves before the Lord,<note place="margin">
+                        <hi>Pſal.</hi>
+40.12. <hi>Job</hi> 42.6.</note> as in Duſt and Aſhes,<note place="margin">
+                        <hi>Neh.</hi> 9.33.</note> Acknowledging him to be juſt in
+<hi>all</hi> that is brought upon <pb n="4" facs="tcp:151188:3"/>us, for he hath done right,
+but we have done wickedly: Yet mourn we not as thoſe without hope,<note place="margin">1
+<hi>Theſſ.</hi> 4.13. <hi>Pſal.</hi> 107.43. <hi>Jer.</hi> 3.1, 5.
+<hi>Hoſea</hi> 14.1, 2.</note> but under<g ref="char:EOLhyphen"/>ſtanding the Loving-kindneſs of
+the Lord, that he yet invites us to return to him, we take with us words, and
+cry to him, Art thou not our Father, the guide of our Youth? Take away
+<hi>all</hi> iniquity, and receive us graciouſly, ſo will we render thee
+the calves of our Lips: Thus by <hi>Faith</hi> do we look again unto the Holy
+Temple,<note place="margin">
+                        <hi>Jonah</hi> 2.4. <hi>Heb.</hi> 12.15, 16
+<hi>Deut.</hi> 29.18.</note> and having diligently ſearched leſt <hi>any
+one</hi> of us fail of the Grace of God, that there be <hi>no</hi> root of
+bitterneſs ſpringing up in us, to trouble us, and that there be no
+Fornicatour, or profane Perſon as <hi>Eſau:</hi> As a People prepared for
+the Lord,<note place="margin">
+                        <hi>Luke</hi> 1.17. <hi>Ezek.</hi> 11.18, 19</note>
+we caſt away <hi>all</hi> our deteſtable things; And with <hi>one</hi>
+heart, in <hi>one</hi> way which God hath given us for our good,<note place="margin">
+                        <hi>Jer.</hi> 32.39.</note> and of our <hi>children</hi> after us;
+We do ſtand this day <hi>all</hi> of us before the Lord our God,<note place="margin">
+                        <hi>Deu.</hi> 29.11, 15 <hi>Jer.</hi> 17.10.</note> the Searcher
+of Hearts, <hi>We,</hi> our <hi>Elders,</hi> and <hi>Deacons,</hi> and our
+<hi>little ones</hi> which the Lord hath given us, that we ſhould again enter
+into <hi>Covenant</hi> with the Lord our God, and into his <hi>Oath</hi> which
+the Lord our God maketh with us this day, that he may eſtabliſh us to day
+for a People unto himſelf, and <hi>our ſeed</hi> with us, and not here with
+us this day; that he may be unto us a <hi>God,</hi>
+                     <note place="margin">
+                        <hi>Gal.</hi> 3.7.6, 14, 29. &amp; 4.28.</note> as he hath
+<hi>ſaid</hi> to us, and as he hath <hi>ſworn</hi> unto our Fathers, to
+<hi>Abraham,</hi> to <hi>Iſaac,</hi> and <pb n="5" facs="tcp:151188:3"/>to <hi>Jacob,</hi>
+whoſe children we are,<note place="margin">
+                        <hi>Iſa.</hi> 44.5.</note> and
+heirs with them according to the Pro<g ref="char:EOLhyphen"/>miſe by Faith in Jeſus Chriſt;</p>
+                  <p>We do make a Covenant with the Lord by Sacrifice, giving up our
+ſelves,<note place="margin">
+                        <hi>Pſal.</hi> 50.5. 2 <hi>Cor.</hi> 8.5.
+<hi>Iſa.</hi> 65.23. 1 <hi>Pet.</hi> 2.5.</note> and our <hi>Offspring</hi>
+with us, unto the Lord, and unto each other by the Will of God, to offer up
+ſpiritual Sacrifices ac<g ref="char:EOLhyphen"/>ceptable to God by Jeſus Chriſt, to be built up a
+ſpiritual houſe,<note place="margin">
+                        <hi>Epheſ.</hi> 2.22. 1 <hi>Tim.</hi>
+3.15. <hi>Iſa.</hi> 43.21. <hi>Epheſ.</hi> 3.21.</note> or <hi>Church</hi>
+of the Living God, to ſhew forth his Praiſe, and give Glory to him in this
+preſent evil World.</p>
+                  <p>Now that we may keep this our Co<g ref="char:EOLhyphen"/>venant and do it,<note place="margin">
+                        <hi>Neh.</hi> 9.38.</note> we <hi>write</hi> it in our
+ſight,<note place="margin">
+                        <hi>Ezek.</hi> 43.11. <hi>Heb.</hi> 8.1.</note> and
+by <hi>Name</hi> expreſs unto what we Covenant, of which this is the
+<hi>Sum;</hi> 
+                  </p>
+                  <p>To Avouch <hi>Jehovah</hi> alone for our GOD.</p>
+                  <p>To chuſe the <hi>Written Word</hi> for our Only Rule;</p>
+                  <p>To walk blameleſs in all the <hi>Ordinan<g ref="char:EOLhyphen"/>ces</hi> of the
+Lord:</p>
+                  <p>To Diſcharge our ſeveral <hi>Relative</hi> Duties.</p>
+                  <p>
+                     <hi>Firſt.</hi> We do thro' the help of the Spirit, by
+<hi>Covenant,</hi>
+                     <note place="margin">2 <hi>Cor.</hi> 3.5. 2 <hi>Chr.</hi>
+30.18, 20. &amp; 34.32. <hi>Pſal.</hi> 83.18. <hi>Matth.</hi> 28.19.</note>
+ſtand to our Bap<g ref="char:EOLhyphen"/>tiſm (tho' not ſo regularly adminiſtred) into the Name
+of the Living and True God, whoſe Name alone is <hi>Jehovah,</hi> Father,
+Son, and Holy Spirit, theſe <hi>Three,</hi> The <hi>Lord,</hi> our
+<hi>God,</hi>
+                     <note place="margin">
+                        <hi>Deut.</hi> 6.4.</note> the <hi>Lord</hi>
+being <pb n="6" facs="tcp:151188:4"/>
+                     <hi>One</hi> Lord,<note place="margin">
+                        <hi>Pſalm</hi>
+96.5.</note> all other Gods being Idols: This God alone we do ſolemnly Avouch
+for a God and Father to us and our <hi>Seed,</hi>
+                     <note place="margin">
+                        <hi>Deut.</hi> 26.17. &amp; 4.37.</note> to Love him with
+<hi>all</hi> our heart, and with <hi>all</hi> our ſoul,<note place="margin">
+                        <hi>Matth.</hi> 12.30.</note> and with <hi>all</hi> our mind, and
+with <hi>all</hi> our ſtrength, and to cleave to him for ever as our God and
+Father in our Lord Jeſus Chriſt,<note place="margin">
+                        <hi>Deut.</hi> 10.20. 2
+<hi>Cor.</hi> 1.2, 3. 1 <hi>Tim.</hi> 3.15. &amp; 2.5. <hi>Jer.</hi> 23.6.
+<hi>Phil.</hi> 3.8, 9. 1 <hi>Cor.</hi> 1.30.</note> 
+                     <hi>God-Man,</hi> the
+<hi>One</hi> Mediator be<g ref="char:EOLhyphen"/>tween God and Men, <hi>Jehovah our
+Righteouſneſs,</hi> counting all our own Righteouſneſs as Loſs and
+Dung, truſt<g ref="char:EOLhyphen"/>ing to him <hi>only</hi> for Juſtification, San<g ref="char:EOLhyphen"/>ctification,
+and compleat Salvation from the Curſe of God's Law,<note place="margin">
+                        <hi>Gal.</hi> 3.10, 13. <hi>Matth.</hi> 1.21.</note> 
+                     <hi>all</hi>
+our Sins, and <hi>all</hi> evils whatſoever; having hope of the
+Reſurrection of the Body,<note place="margin">2 <hi>Tim.</hi> 4.18.
+<hi>Acts</hi> 23.6. 2 <hi>Theſſ.</hi> 2.1.</note> and of coming
+<hi>to,</hi> and ſtanding <hi>with</hi> him in Judgment, fully expecting
+pre<g ref="char:EOLhyphen"/>ſervation to his heavenly Kingdom, to whom be Glory for ever,<note place="margin">2 <hi>Tim.</hi> 4.18.</note> and ever, <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <hi>Secondly.</hi> We do, through the Help of the Spirit,<note place="margin">2 <hi>Cor.</hi> 3.5. <hi>Pſal.</hi> 119, 30. <hi>Gal.</hi> 6.16.
+<hi>Col.</hi> 2.5. <hi>Epheſ.</hi> 2.20. <hi>Rev.</hi> 14.1. &amp; 15.3. 1
+<hi>Tim.</hi> 5.21. <hi>Mal.</hi> 2.9. <hi>Prov.</hi> 30.5. <hi>Pſal.</hi>
+119.128.</note> by <hi>Covenant</hi> chuſe <hi>all</hi> the Written Word of
+God to be our <hi>only</hi> Rule for <hi>Faith,</hi> and <hi>Order,</hi> ſo
+building upon the Foundation of the <hi>Apoſtles</hi> and <hi>Prophets,</hi>
+and on this Mount <hi>Si<g ref="char:EOLhyphen"/>on,</hi> ſinging the Song of <hi>Moſes</hi> and
+the <hi>Lamb;</hi> We ſhall not prefer <hi>one</hi> part of the Word by
+partiallity to <hi>another,</hi> but eſteeming <hi>every</hi> Word of God to
+be pure, and <hi>all</hi> the Precepts concern<g ref="char:EOLhyphen"/>ing <hi>all</hi> things to be
+right, and <hi>nothing</hi> 
+                     <pb n="7" facs="tcp:151188:4"/>to be refus'd;<note place="margin">
+                        <hi>Rom.</hi> 15.4.</note> We ſhall take <hi>whatſo<g ref="char:EOLhyphen"/>ever</hi>
+is written therein for our Learn<g ref="char:EOLhyphen"/>ing, Reproof, Correction,<note place="margin">2
+<hi>Tim.</hi> 3.15, 17</note> and Inſtruct<g ref="char:EOLhyphen"/>ion in Righteouſneſs, as
+<hi>throughly</hi> fur<g ref="char:EOLhyphen"/>niſhing us to <hi>all</hi> good Works; There<g ref="char:EOLhyphen"/>fore do
+we hate the <hi>Apocrypha,</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 119.104.128.
+<hi>Rev.</hi> 22.18.</note> and <hi>all</hi> additions of Men whatſoever, to
+this our <hi>only</hi> Rule; yet not accounting that we have <hi>already</hi>
+attained, or are <hi>already</hi> per<g ref="char:EOLhyphen"/>fect,<note place="margin">
+                        <hi>Phil.</hi>
+3.12, 13. <hi>Pſal.</hi> 119.105. <hi>Iſa.</hi> 8.20.</note> we will reach
+forth to thoſe things which are before, by the Light of the Word waiting for
+the teachings of the Spirit of Truth,<note place="margin">
+                        <hi>John</hi>
+16.13.</note> to lead us into <hi>all</hi> Truth, in a diligent comparing
+Scrip<g ref="char:EOLhyphen"/>ture with Scripture,<note place="margin">1 <hi>Cor.</hi> 2.13.
+<hi>Prov.</hi> 4.18.</note> till the light there<g ref="char:EOLhyphen"/>of ſhine more and more unto
+the perfect day.</p>
+                  <p>
+                     <hi>Thirdly,</hi>
+                     <note place="margin">2 <hi>Cor.</hi> 3.5. 2
+<hi>Chr.</hi> 34.31. <hi>Luke</hi> 1.6. <hi>typify'd. Eze.</hi> 40.39.43. &amp;
+46.3.</note> We do thro' the help of the Spirit, <hi>Covenant</hi> to walk
+blameleſs in <hi>all the Ordinances</hi> which the Lord Jeſus Chriſt hath
+given to his Churches, both <hi>General</hi> and <hi>Special</hi> in their
+appointed ſeaſons.</p>
+                  <p n="1">
+                     <hi>1ſt.</hi> We ſhall every <hi>Firſt day</hi> of
+the Week,<note place="margin">1 <hi>Cor.</hi> 16.2. <hi>Rev.</hi> 1.10.
+<hi>Pſal.</hi> 150.6. 1 <hi>Tim.</hi> 2.1. <hi>Eph.</hi> 3.8. <hi>Gal.</hi>
+6.6.</note> being the <hi>Lord's Day,</hi> wait upon God in the
+<hi>general</hi> Ordinances of <hi>Praiſe, Prayer, Preaching,</hi> and
+<hi>Contribution</hi> to be diſpens'd to all.</p>
+                  <p>
+                     <hi>Praiſing</hi> God by ſinging <hi>Scripture</hi>
+Pſalms, Hymns,<note place="margin">2 <hi>Chr.</hi> 29.30. <hi>Epheſ.</hi>
+5.19.</note> Spiritual Songs and <hi>no</hi> other.</p>
+                  <pb n="8" facs="tcp:151188:5"/>
+                  <p>
+                     <hi>Praying</hi> to God in and by the <hi>Spirit,</hi>
+                     <note place="margin">
+                        <hi>Rom.</hi> 8.26. <hi>Col.</hi> 2.20.</note> without the Forms
+or Rudiments of Men.</p>
+                  <p>
+                     <hi>Preaching</hi> by our Paſtour,<note place="margin">1
+<hi>Cor.</hi> 4.15, 16. <hi>&amp;</hi> 12.28. 1 <hi>Tim.</hi> 6.3.</note> with
+<hi>helps</hi> appointed in the Word, to inſtruct us according to
+<hi>our</hi> form of ſound words.</p>
+                  <p>
+                     <hi>Laying by us in ſtore,</hi> as God proſpers us,<note place="margin">1 <hi>Cor.</hi> 16.1, 2. <hi>Heb.</hi> 13.16.</note> that we may
+be ready for <hi>Contributi<g ref="char:EOLhyphen"/>on</hi> on <hi>all</hi> Occaſions offer'd.</p>
+                  <p n="2">
+                     <hi>2dly,</hi>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 66.23.
+<hi>Ezek.</hi> 47.12.</note> We ſhall (according to the <hi>Months</hi>)
+attend upon God in the <hi>spe<g ref="char:EOLhyphen"/>cial</hi> Ordinances, <hi>Baptiſm,</hi> And
+the <hi>Lord's Supper.</hi>
+                     <note place="margin">1 <hi>Cor.</hi> 4.1.
+<hi>Typify'd. Eze.</hi> 46.19, 24.</note> The <hi>Seals</hi> of the
+<hi>Church</hi> (commonly call'd <hi>Sacraments</hi>) to be adminiſtred to us
+<hi>only</hi> by our own <hi>Paſtour.</hi>
+                  </p>
+                  <p>
+                     <hi>Fellowſhip</hi> And <hi>Cenſure.</hi>
+                     <note place="margin">
+                        <hi>Matth.</hi> 16.19. <hi>John</hi> 20.23. <hi>Rev.</hi>
+3.7.</note> The <hi>Keys</hi> of the Church to be exer<g ref="char:EOLhyphen"/>cis'd by our own
+<hi>Elders.</hi>
+                  </p>
+                  <p>
+                     <hi>Baptiſm</hi> to be adminiſtred to us,<note place="margin">1 <hi>Cor.</hi> 10.1.2. <hi>with Pſ.</hi> 77.17. <hi>Iſa.</hi>
+52.15. <hi>with Matt.</hi> 28.19, 20. <hi>Acts</hi> 2.39, 41. 1 <hi>Cor.</hi>
+7.14. <hi>&amp;</hi> 12.13. <hi>with Gal.</hi> 3.27 1 <hi>Pet.</hi> 3.21.
+<hi>with</hi> 1.3.</note> and to all our immediate Infant-Seed, by
+<hi>sprinkling</hi> or <hi>pouring</hi> only Water on the Face, in the Name of
+the Father, and of the Son, and of the Holy Spirit; Sealing to <hi>all</hi>
+their Covenant-Relation to God in his Church, or putting on Chriſt by
+Profeſſion; and <hi>only</hi> to the <hi>Elect</hi> a ſaving-Relation by
+the ſprink<g ref="char:EOLhyphen"/>ling of Chriſt's Blood in Juſtification, <pb n="9" facs="tcp:151188:5"/>and
+pouring forth his Spirit in Sanctifi<g ref="char:EOLhyphen"/>cation,<note place="margin">
+                        <hi>Ezek.</hi>
+36.25. <hi>Rom.</hi> 11.7.</note> ſuch <hi>alone</hi> putting on Chriſt to
+Salvation.</p>
+                  <p>The <hi>Lords Supper,</hi>
+                     <note place="margin">
+                        <hi>1</hi> Cor.
+<hi>11.23.</hi> to the end.</note> In which <hi>Bread</hi> is bleſt, and
+broken; and <hi>Wine</hi> bleſt, and pour'd forth,<note place="margin">
+                        <hi>Luke</hi> 22.14, 30 <hi>Numb.</hi> 28.2. <hi>Heb.</hi>
+9.26.</note> and <hi>receiv'd by the Church</hi> met, and ſitting
+<hi>together</hi> in the <hi>Evening</hi> time, as a Sign to <hi>all,</hi> that
+in the Even<g ref="char:EOLhyphen"/>ing time of the World, Chriſt's Body was broken, and his Blood
+ſhed for the Remiſſion of <hi>Sins;</hi>
+                     <note place="margin">
+                        <hi>Rom.</hi>
+3.24, 26.</note> Sealing <hi>only</hi> to the worthy Receivers their ſaving
+intereſt therein.</p>
+                  <p>
+                     <hi>Fellowſhip,</hi> The <hi>Key,</hi>
+                     <note place="margin">
+                        <hi>Acts</hi> 2.42. <hi>Iſa.</hi> 26.1, 2. <hi>Jer.</hi> 51.10.
+1 <hi>Pet.</hi> 3.15. 1 <hi>Cor.</hi> 14. <hi>Jude</hi> 20.</note> for opening
+the Gates of the Church to receive in the <hi>Righteous</hi> that keep the
+<hi>Truth;</hi> in which there is a <hi>communication</hi> of Experience, and
+Knowledge, as <hi>alſo</hi> of Gifts and Graces, by praying, and prophecying,
+for building up the Saints in their moſt Holy Faith;<note place="margin">1
+<hi>Cor.</hi> 14.34, 35.</note> no <hi>Woman</hi> being herein permitted to
+ſpeak; for 'tis a ſhame for Women to ſpeak in the Church.</p>
+                  <p>
+                     <hi>Cenſure,</hi>
+                     <note place="margin">
+                        <hi>Rev.</hi> 1.18. 1
+<hi>Cor.</hi> 4.21.</note> The <hi>Key</hi> for ſhutting the Door of the
+Church; conſiſting of <hi>Ad<g ref="char:EOLhyphen"/>monition, withdrawing</hi> from, and
+<hi>cutting</hi> off Offenders.</p>
+                  <p>
+                     <hi>Admonition, <hi>Privately</hi>
+                     </hi> given,<note place="margin">
+                        <hi>Mat.</hi> 18.15, 17 1 <hi>Tim.</hi> 5.20. <hi>Numb.</hi>
+12.14. <hi>Ezek.</hi> 43.11.</note> for private Offences; <hi>Publickly,</hi>
+when the Of<g ref="char:EOLhyphen"/>fence relates to the Body; with <hi>ſhutting up</hi> from Special
+Ordinances thoſe that <pb n="10" facs="tcp:151188:6"/>ſlight the Church,<note place="margin">2 <hi>Theſ.</hi> 3.14, 15</note> or their own Elders, that
+ſuch may be aſham'd.</p>
+                  <p>
+                     <hi>Withdrawing from</hi> Thoſe that walk diſorderly,<note place="margin">2 <hi>Theſſ.</hi> 3.6. <hi>Rom.</hi> 16.17. <hi>Ezra</hi>
+10.8. <hi>Jer.</hi> 2.18, <hi>&amp;c. Heb.</hi> 12.15, 17</note> cauſe
+Diviſions and Offences forſake Church Aſſemblies, pre<g ref="char:EOLhyphen"/>ſent
+themſelves at <hi>any</hi> Will-Worſhip, or deſpiſe their
+Birthright.</p>
+                  <p>
+                     <hi>Cutting off,</hi>
+                     <note place="margin">1 <hi>Cor.</hi> 5.1, 5.
+1 <hi>Tim.</hi> 1.20. <hi>Titus</hi> 3.10. <hi>Neh.</hi> 5.13. 2 <hi>Cor.</hi>
+9.13.</note> And delivering to Sa<g ref="char:EOLhyphen"/>tan ſuch as are obſtinate, Hereticks, or
+guilty of thoſe ſins that are ſcarce nam'd among the Gentiles: To
+<hi>all</hi> this Diſ<g ref="char:EOLhyphen"/>cipline of Chriſt we profeſs <hi>Willing</hi>
+ſub<g ref="char:EOLhyphen"/>jection. And thus ſhall <hi>each one</hi> of us be in readineſs to
+revenge <hi>all</hi> diſobedi<g ref="char:EOLhyphen"/>ence with the Sword of the Spirit in our
+hands;<note place="margin">2 <hi>Cor.</hi> 10.4, 6. <hi>Pſal.</hi> 149.5,
+9.</note> this Honour have <hi>all</hi> the Saints; Praiſe ye the Lord!</p>
+                  <p>After this manner ſhall we call up<g ref="char:EOLhyphen"/>on each other,<note place="margin">
+                        <hi>Pſal.</hi> 122.1. <hi>Heb.</hi> 10.24.25 <hi>Num.</hi> 28.2
+<hi>Exo.</hi> 20.24, 26.</note> to go up to the <hi>Worſhip</hi> of Chriſt
+in our ſtated Seaſons, behav<g ref="char:EOLhyphen"/>ing our ſelves in the Houſe of God not
+unſeemly, but as in the Preſence of Chriſt:<note place="margin">
+                        <hi>Joel</hi> 2.15. 2 <hi>Chr.</hi> 20.3.26.</note> Attending
+alſo on ſuch other <hi>Occaſional</hi> Meetings for <hi>Fasting</hi> and
+<hi>Thankſgiving,</hi> as it ſhall ſeem good to the Church from the Word
+to appoint: So ſhall we keep <hi>all</hi> the Ordinances of God's
+Houſe,<note place="margin">1 <hi>Cor.</hi> 14.40. <hi>Ezek.</hi> 43.4.11.
+<hi>Matth.</hi> 15.9. <hi>Dan.</hi> 7.25. <hi>Col.</hi> 2.20, 23.</note> with
+the <hi>Times</hi> and <hi>Forms</hi> thereof, rejecting <hi>all</hi>
+Ordinances, Times and Forms after the Command<g ref="char:EOLhyphen"/>ments and Doctrines of Men.</p>
+                  <pb n="11" facs="tcp:151188:6"/>
+                  <p>
+                     <hi>Fourthly,</hi> The Spirit helping our In<g ref="char:EOLhyphen"/>firmities,<note place="margin">2 <hi>Cor.</hi> 3.5.</note> We <hi>covenant</hi>
+conſcientiouſly to diſcharge our <hi>ſeveral Duties</hi> to the Lord in
+this Body,<note place="margin">
+                        <hi>Heb.</hi> 3.5.</note>
+                  </p>
+                  <p>We that are <hi>Officers</hi> Covenant to diſ<g ref="char:EOLhyphen"/>charge our
+Duty:<note place="margin">
+                        <hi>Deut.</hi> 29.10. 1 <hi>Pet.</hi> 5.2.
+<hi>Acts</hi> 20.28. <hi>Jer.</hi> 50.8. 2 <hi>Sam.</hi> 23.3.</note> The
+<hi>Paſtour</hi> willing<g ref="char:EOLhyphen"/>ly to feed and take the Overſight of the Flock of
+God; going before them in the ways of Chriſt; ruling in the Fear of the Lord;
+and being an Exam<g ref="char:EOLhyphen"/>ple in Faith, Love and Zeal;<note place="margin">
+                        <hi>Titus</hi>
+2.7.</note> preach<g ref="char:EOLhyphen"/>ing the Word, inſtant in Seaſon,<note place="margin">2
+<hi>Tim.</hi> 4.1, 4.</note> and out of Seaſon; reproving, rebuking,
+ex<g ref="char:EOLhyphen"/>horting with all long-ſuffering; not profaning the Seals to <hi>any</hi>
+out of the Flock over which the Holy Spirit hath made him Overſeer.<note place="margin">
+                        <hi>Ezek.</hi> 44.6.13. <hi>Matth.</hi> 7.6.</note> The
+<hi>Elders</hi> dili<g ref="char:EOLhyphen"/>gently to help the Paſtor in Teaching,<note place="margin">
+                        <hi>Rom.</hi> 12.7, 8. <hi>Heb.</hi> 13.17.</note> Watching over,
+Ruling and Admoniſh<g ref="char:EOLhyphen"/>ing the Flock.<note place="margin">
+                        <hi>Acts</hi> 6.2, 3.1
+<hi>Tim.</hi> 3.8, 14</note> The <hi>Deacons</hi> faithfully to ſerve the
+Tables, waiting on <hi>that</hi> Miniſtry to which they are call'd, uſing
+their Office well.</p>
+                  <p>Furthermore, We <hi>all</hi> Covenant to diſcharge our
+ſeveral Relative Duties,<note place="margin">
+                        <hi>Exodus</hi> 19.8.</note> 
+                  </p>
+                  <p>To our Own <hi>Officers:</hi>
+                  </p>
+                  <p>To our <hi>Infant Seed:</hi>
+                  </p>
+                  <p>To <hi>each other</hi> ſingly; And</p>
+                  <p>To the <hi>whole Body</hi> jointly.</p>
+                  <p n="1">
+                     <hi>Iſt.</hi>
+                     <note place="margin">
+                        <hi>Neb.</hi> 10.29.
+<hi>Deut.</hi> 1.13. 1 <hi>Cor.</hi> 9.7, 15. <hi>Heb.</hi> 13.17.</note> We
+Covenant to Diſcharge our Duty to our <hi>own Officers</hi> choſen from
+among our ſelves; to maintain, ſubmit to, and pray for our
+<hi>Paſtour;</hi> to cleave <pb n="12" facs="tcp:151188:7"/>to him,<note place="margin">2
+<hi>Theſſ.</hi> 3.1. <hi>Acts</hi> 17.34. 1 <hi>Sam.</hi> 22.23. 2
+<hi>Tim.</hi> 4.2. <hi>Prov.</hi> 21.16. 1 <hi>Cor.</hi> 4.15, 16 1
+<hi>Theſſ.</hi> 5.13. 1 <hi>Cor.</hi> 4.1, 2. 2 <hi>Tim.</hi> 4.14, 15 3
+<hi>John</hi> 9, 10. <hi>Pſal.</hi> 101.5.</note> and to abide by him,
+waiting upon his Miniſtry in Seaſon and out of Seaſon; not
+<hi>wilfully</hi> wandring from, or forſaking it to attend upon any other;
+eſteeming him very highly in Love for his Works ſake, as a <hi>Steward</hi>
+of the Myſteries of God to us: We ſhall not ſuffer any <hi>privily</hi>
+to back<g ref="char:EOLhyphen"/>bite, whiſper, or prate againſt our Pa<g ref="char:EOLhyphen"/>ſtour with malicious
+words, for ſuch are to be cut off; We ſhall Honour and Obey our <hi>own
+Elders</hi> in the Lord, not rebuking,<note place="margin">1 <hi>Tim.</hi>
+5.1.17.19.</note> but intreating them as Fathers; counting them worthy of
+double Honour, who rule well, eſpeci<g ref="char:EOLhyphen"/>ally thoſe who labour in the Word and
+Doctrine; Reſpecting alſo our <hi>Deacons</hi> and being ready for
+<hi>every</hi> good work to which they ſhall call.<note place="margin">
+                        <hi>Neh.</hi> 13.13. 1 <hi>Tim.</hi> 6.18.</note>
+                  </p>
+                  <p n="2">
+                     <hi>IIdly.</hi> We Covenant to diſcharge our Duty to
+<hi>our Infant Seed;</hi>
+                     <note place="margin">
+                        <hi>Gen.</hi> 18.19. <hi>Jude</hi>
+3. <hi>Gen.</hi> 17.7, 12. <hi>Deut.</hi> 10.15.14.1, 2.</note> con<g ref="char:EOLhyphen"/>tending
+earneſtly for the Faith <hi>once</hi> delivered to the Saints, of their right
+to a <hi>relation</hi> unto God in his Church with us, and to
+<hi>Baptiſm,</hi> the Seal thereof; We being a Spouſe of Chriſt our Royal
+Husband,<note place="margin">
+                        <hi>Mal.</hi> 2.15. 1 <hi>Cor.</hi> 7.14.
+<hi>&amp;</hi> 10.2. <hi>Eze.</hi> 16.20, 21. <hi>&amp;</hi> 46.16, 18.
+<hi>Jer.</hi> 30.20. <hi>Acts</hi> 2.39. <hi>Epheſ.</hi> 2.13.
+<hi>Pſal.</hi> 147.13.</note> 
+                     <hi>All our Children</hi> therefore are
+<hi>his,</hi> born to him, who hath promis'd <hi>to us Gentiles</hi> that were
+afar off, that he will not thruſt <hi>our children</hi> out of their
+poſſeſſion; but that even <hi>our children</hi> ſhall inherit, and be
+continu'd a <hi>holy Seed</hi> as afore-time; that our Congrega<g ref="char:EOLhyphen"/>tion ſhould
+be eſtabliſht, and the Bars <pb n="13" facs="tcp:151188:7"/>of our Gates
+ſtrength'ned,<note place="margin">
+                        <hi>Iſa.</hi> 65.23. <hi>&amp;</hi> 66.22.
+<hi>Joſh.</hi> 24.16. <hi>Joel</hi> 2.16, 17. <hi>Pſal.</hi> 90.16.
+<hi>Eſther</hi> 10.3. <hi>Nehem.</hi> 2.10. <hi>Pſal.</hi> 101.1.
+<hi>Epheſ.</hi> 6.4. <hi>Prov.</hi> 22.6. 1 <hi>Chr.</hi> 28.9. 2
+<hi>Chr.</hi> 29.11. <hi>&amp;</hi> 30.6. <hi>Iſa.</hi> 44.3, 5.
+<hi>Gen.</hi> 21.9, 12.</note> by the Lord's bleſſing <hi>our children</hi>
+within us; there<g ref="char:EOLhyphen"/>fore will we and <hi>our Houſe</hi> ſerve the Lord,
+ſeeking as well in the Congrega<g ref="char:EOLhyphen"/>tion, as in Secret, for the Bleſſing of
+the Lord, and his Peace upon <hi>our children; walking</hi> before them in a
+perfect way; <hi>training</hi> them up in the Nurture and Admonition of the
+Lord; and <hi>calling</hi> upon them as they grow up, to avouch the Lord for
+their God, and to take on themſelves the <hi>Bond</hi> of the Covenant,
+<hi>caſting out</hi> ſuch of them as prove Scof<g ref="char:EOLhyphen"/>fers, and deſpiſers of
+their Birthright.</p>
+                  <p n="3">
+                     <hi>IIIdly,</hi> We Covenant to diſcharge our Duty to
+each other <hi>as members in par<g ref="char:EOLhyphen"/>ticular;</hi>
+                     <note place="margin">1
+<hi>Cor.</hi> 12.27. 1 <hi>Pet.</hi> 1.22. <hi>Gal.</hi> 6.2. <hi>Epheſ.</hi>
+4.2. <hi>Rom.</hi> 12.10. <hi>Mark</hi> 13.37.</note> to <hi>Love</hi> one
+another with a pure heart fervently; to <hi>bear</hi> each others bur<g ref="char:EOLhyphen"/>thens,
+<hi>forbearing</hi> one another, and in Ho<g ref="char:EOLhyphen"/>nour <hi>eſteeming</hi> each
+better than our ſelves; to <hi>watch</hi> over each other, <hi>not
+ha<g ref="char:EOLhyphen"/>ting</hi> our Brother by ſuffering ſin to reſt upon him,<note place="margin">
+                        <hi>Levit.</hi> 19.17.</note> but in any wiſe to rebuke him: We
+<hi>ſhall not</hi> conſent, hearken to,<note place="margin">
+                        <hi>Deut.</hi>
+13.6, 11. <hi>Prov.</hi> 29.24.</note> pity, ſpare, nor conceal <hi>any,</hi>
+tho' <hi>dear</hi> as our own ſoul, that would <hi>ſecretly</hi> intice us
+to depart from the <hi>true</hi> Faith of God in which we ſtand;<note place="margin">1 <hi>Pet.</hi> 5.12. <hi>Heb.</hi> 3.12, 13. <hi>Acts</hi> 11.23.
+<hi>James</hi> 5.16. <hi>Luke</hi> 22.32. 1 <hi>Theſſ.</hi> 4.18.</note>
+but daily will we <hi>exhort</hi> each other, with <hi>full</hi> purpoſe of
+heart to cleave unto the Lord; <hi>praying</hi> for, <hi>ſtrengthning</hi>
+and <hi>com<g ref="char:EOLhyphen"/>forting</hi> one another in the ways of Chriſt; no
+<hi>Brother</hi> wronging, nor defrauding a Brother,<note place="margin">1
+<hi>Cor.</hi> 6.1, 8.</note> nor going to Law with him <pb n="14" facs="tcp:151188:8"/>before unbelievers, the Saints being to judge all matters relating to
+the Bre<g ref="char:EOLhyphen"/>thren; And <hi>conſecrating</hi> our ſubſtance to the Lord,<note place="margin">
+                        <hi>Mic.</hi> 4.13. <hi>Eſther</hi> 10.3. <hi>Rom.</hi> 12.13.
+<hi>Acts</hi> 4.32.</note> we ſhall ſeek the welfare of each other,
+diſtributing to the neceſſi<g ref="char:EOLhyphen"/>ties of the Saints, according to the Ex<g ref="char:EOLhyphen"/>ample
+of the People of God in the Apo<g ref="char:EOLhyphen"/>ſtles times,<note place="margin">1
+<hi>Cor.</hi> 7.26, 27.</note> as <hi>far as the preſent diſtreſs doth
+permit;</hi> not refuſing to lay down even our lives for the Brethren,<note place="margin">1 <hi>John</hi> 3.16. <hi>Pſal.</hi> 137.6.</note> as
+pre<g ref="char:EOLhyphen"/>ferring this <hi>Sion</hi> to our chiefeſt Joy.</p>
+                  <p>Nor ſhall we neglect our ſeveral <hi>re<g ref="char:EOLhyphen"/>lative</hi> Duties
+whether <hi>within</hi> the Church,<note place="margin">
+                        <hi>Col.</hi> 4.5.</note>
+or <hi>without.</hi>
+                  </p>
+                  <p>
+                     <hi>Husbands</hi> loving their Wives,<note place="margin">
+                        <hi>Ephe.</hi> 5.25.33. <hi>Col.</hi> 3.19. <hi>Eph.</hi> 5.22,
+24. <hi>Col.</hi> 3.18.</note> not be<g ref="char:EOLhyphen"/>ing bitter againſt them:</p>
+                  <p>
+                     <hi>Wives</hi> being obedient to their own Husbands in the
+Lord:</p>
+                  <p>
+                     <hi>Parents</hi> bringing up their Children in the Fear of
+God:<note place="margin">
+                        <hi>Epheſ.</hi> 6.4.</note>
+                  </p>
+                  <p>
+                     <hi>Children</hi> obeying their Parents in the Lord:<note place="margin">
+                        <hi>Epheſ.</hi> 6.1, 2.</note>
+                  </p>
+                  <p>
+                     <hi>Maſters</hi> being juſt and merciful to their
+Servants:<note place="margin">
+                        <hi>Epheſ.</hi> 6.9.</note>
+                  </p>
+                  <p>
+                     <hi>Servants</hi> and <hi>Subjects</hi> obeying their Su<g ref="char:EOLhyphen"/>periors
+in the Lord;<note place="margin">1 <hi>Pet.</hi> 2.13, 25. 1 <hi>Theſſ.</hi>
+4.11. 2 <hi>Theſſ.</hi> 3, 10, 12</note> 
+                     <hi>All</hi> ſtudying to be
+quiet, to <hi>work</hi> with their own hands, and to mind their own
+buſineſs, render<g ref="char:EOLhyphen"/>ing to <hi>Caeſar</hi> the things that are
+<hi>Caeſars,</hi>
+                     <note place="margin">
+                        <hi>Mat.</hi> 22.21.</note> and to
+<hi>God</hi> the things that are <hi>Gods,</hi> that ſo we may <hi>adorn</hi>
+the Goſpel of God our Saviour.<note place="margin">
+                        <hi>Titus</hi>
+2.10.</note>
+                  </p>
+                  <pb n="15" facs="tcp:151188:8"/>
+                  <p n="4">IV. We all Covenant to diſcharge our Duty to the
+<hi>whole Church jointly,</hi>
+                     <note place="margin">1 <hi>Cor.</hi>
+12.25.12.</note> as a Body of Chriſt.</p>
+                  <p>To be <hi>holy to</hi> the Lord in all manner of
+Converſation;</p>
+                  <p>To <hi>ſtand together</hi> for the Defence of the Truth;</p>
+                  <p>To keep <hi>the Unity of</hi> the Spirit in the Bond of
+Peace;</p>
+                  <p>To preſs <hi>forward</hi> in our Heavenly Courſe.</p>
+                  <p n="1">
+                     <hi>1st,</hi>
+                     <note place="margin">1 <hi>Pet.</hi> 1.15. 2
+<hi>Tim.</hi> 2.4.</note> As a <hi>Body</hi> of Chriſt we ſhall <hi>be holy
+to the Lord in all manner of Converſa<g ref="char:EOLhyphen"/>tion;</hi> not intangling our ſelves
+with the Affairs of this Life;<note place="margin">
+                        <hi>Zeph.</hi> 3.9.
+<hi>Epheſ.</hi> 5.4.</note> in <hi>Language</hi> ſeeking Purity, avoiding
+all fooliſh Talking, or Jeſting, which is not convenient; ha<g ref="char:EOLhyphen"/>ving our
+Speech ſeaſon'd with Salt,<note place="margin">
+                        <hi>Col.</hi> 4.6.</note> that
+it may adminiſter Grace to the Hearers: And we being redeem'd from a vain
+Converſation,<note place="margin">1 <hi>Pet.</hi> 1.14, 18.</note> ſhall
+<hi>not faſhion</hi> our ſelves according to the former Luſts in our
+Ig<g ref="char:EOLhyphen"/>norance, but adorning our ſelves with modeſt Apparel, becoming People
+pro<g ref="char:EOLhyphen"/>feſſing Godlineſs,<note place="margin">1 <hi>Tim.</hi> 2.9.
+<hi>Deut.</hi> 22.5. with 1 <hi>Cor.</hi> 11.1.16. <hi>Ezek.</hi> 44.20.
+<hi>Rev.</hi> 9.7, 8. <hi>Zeph.</hi> 1.8. <hi>Iſa.</hi> 3.24. <hi>Jude</hi>
+23.</note> 
+                     <hi>No Woman</hi> ſhall wear that which pertains to a
+<hi>Man,</hi> nor <hi>any Man</hi> put on a <hi>Woman</hi>'s Garment, or
+<hi>Co<g ref="char:EOLhyphen"/>vering,</hi> all that do ſo being an Abomi<g ref="char:EOLhyphen"/>nation to the Lord, who
+will puniſh <hi>all</hi> ſuch who are cloath'd with <hi>ſtrange</hi>
+Ap<g ref="char:EOLhyphen"/>parel, ſtrange to <hi>Nature,</hi> or ſtrange to <hi>Scripture;</hi>
+therefore ſhall we hate even <pb n="16" facs="tcp:151188:9"/>the <hi>Garment</hi>
+ſpotted with the Fleſh;<note place="margin">
+                        <hi>Gen.</hi> 35.2. 2
+<hi>Cor.</hi> 6.14. <hi>Joſh.</hi> 23.12, 13. <hi>Judg.</hi> 2.1.4. 2
+<hi>Chron.</hi> 19.2.20.35, 37. <hi>Deut.</hi> 7.3, 5. <hi>Ezra</hi> 9.14.
+&amp; 10.3, 5. <hi>Neb.</hi> 13.23, 27 <hi>Mal.</hi> 2.11.15. <hi>Heb.</hi>
+6.10. <hi>Levit.</hi> 18.30. <hi>Prov.</hi> 2.17. <hi>Mal.</hi> 2.14.
+<hi>Gen.</hi> 23. all. <hi>Ruth</hi> 1.17. 1 <hi>King</hi> 13.31.</note> we
+will not <hi>unequally Yoke</hi> our ſelves with Unbelievers, nor join in
+Affinity, or make Leagues with ſuch as are not in a <hi>viſible
+relation</hi> to Chriſt in his Church; nor yet ſhall we give our Daughters
+to their Sons, nor take their Daughters to our Sons, leſt <hi>our
+Children</hi> learn their ways, and we <hi>ſo</hi> mingle the <hi>Holy
+Seed,</hi> that there be no Remnant of us, or eſca<g ref="char:EOLhyphen"/>ping: <hi>Deſiring
+alſo</hi> to be married as God's People were of old, and not according to
+vain Cuſtoms, all which are forbid<g ref="char:EOLhyphen"/>den; avoiding as much as in us lies,
+be<g ref="char:EOLhyphen"/>ing interr'd with <hi>Strangers;</hi> ſo follow<g ref="char:EOLhyphen"/>ing the Example of the
+Saints, who co<g ref="char:EOLhyphen"/>veted to be buried with their own Peo<g ref="char:EOLhyphen"/>ple.</p>
+                  <p n="2">
+                     <hi>2dly,</hi> As a Body of Chriſt we will with
+<hi>one</hi> Shoulder <hi>ſtand together</hi> to uphold his Truth;<note place="margin">
+                        <hi>Zeph.</hi>
+3.9. Mar<g ref="char:EOLhyphen"/>gent. <hi>Phil.</hi> 1.27. <hi>Gal.</hi> 2.5.</note> and that the
+Goſpel may con<g ref="char:EOLhyphen"/>tinue with us and <hi>our Seed,</hi> (like <hi>David</hi>
+ſerving our Generation) we profeſs to ſtrive together for <hi>all</hi>
+Truth,<note place="margin">
+                        <hi>Act.</hi> 20.20, 27. <hi>Pſal.</hi> 119.128.
+<hi>Deut.</hi> 12.32. <hi>Mat.</hi> 5.19. <hi>Gal.</hi> 4.18. <hi>Rev.</hi>
+2.13. 3.10. 2 <hi>Cor.</hi> 10.4, 7. <hi>Col.</hi> 1.18.</note> counting
+<hi>nothing indifferent;</hi> being always zea<g ref="char:EOLhyphen"/>louſly affected for
+<hi>thoſe</hi> Truths of Chriſt that are moſt oppos'd in our day;
+reſiſt<g ref="char:EOLhyphen"/>ing ſtedfaſtly by his Word and Spirit <hi>all</hi> Doctrines
+undermining the Dignity of our Lord <hi>Jeſus Christ,</hi> as <hi>King,
+Prophet,</hi> and <hi>Priest</hi> of his Church, that in all things he might
+have the <hi>Preheminence;</hi> More particularly,</p>
+                  <p n="2"> 
+                     <pb n="17" facs="tcp:151188:9"/> 
+                     <hi>Firſt,</hi>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 24.5. <hi>Matth.</hi> 2.14. <hi>Matth.</hi> 15.9.
+<hi>Gal.</hi> 5.1. 1 <hi>Kin.</hi> 12.28. <hi>to the End. Iſa.</hi> 33.22.
+<hi>Pſal.</hi> 45.11.</note> We ſhall oppoſe ALL Doct<g ref="char:EOLhyphen"/>rines leading to
+the <hi>Neglect</hi> of Chriſt's Ordinances; or to the <hi>ſinful
+impoſing</hi> any Traditions, Ceremonies, Orders or Offi<g ref="char:EOLhyphen"/>cers in the Church,
+not inſtituted by Chriſt our only <hi>King,</hi> Judge and Lawgiver, who is
+<hi>our Lord,</hi> and we will worſhip him.</p>
+                  <p n="2">
+                     <hi>Secondly,</hi>
+                     <note place="margin">
+                        <hi>Acts</hi> 13.45,
+46 <hi>with</hi> 3.22.</note> We ſhall continue hearti<g ref="char:EOLhyphen"/>ly to abhor ALL
+Doctrine contradict<g ref="char:EOLhyphen"/>ing and Blaſpheming the Revelation of this our
+<hi>Prophet</hi> in his Written Word:<note place="margin">1 <hi>Tim.</hi>
+4.1.</note> Chiefly thoſe <hi>Doctrines of De<g ref="char:EOLhyphen"/>vils;</hi> which deny,
+oppoſe, or prevari<g ref="char:EOLhyphen"/>cate about the <hi>Eternal Godhead</hi> of our Lord
+Jeſus Chriſt, and the Holy Spirit,<note place="margin">
+                        <hi>Joh.</hi> 10.30,
+38 <hi>Acts</hi> 5.3, 4. 1 <hi>John</hi> 5.7.</note> ſo blaſpheming the
+ever bleſſed <hi>Trinity</hi> in <hi>Unity.</hi>
+                  </p>
+                  <p>
+                     <hi>Or</hi> that Oppoſe,<note place="margin">
+                        <hi>Iſa.</hi>
+9.6, 7. <hi>Matth.</hi> 1.23. 1 <hi>Tim.</hi> 3.16.</note> or Equivocate about
+the <hi>Myſterious Union</hi> of the Divine and Humane Nature in the
+<hi>One</hi> Perſon of our glorious Mediator Jeſus Chriſt:</p>
+                  <p>
+                     <hi>Or</hi> that exalt the <hi>Light within,</hi>
+                     <note place="margin">
+                        <hi>Jer.</hi> 10.23. <hi>Matth.</hi> 6.23. <hi>John</hi> 1.4, 9.
+<hi>with</hi> 8.12.9.5. <hi>&amp;</hi> 6.27.40.</note> or any other Creature,
+above, beſides, or with <hi>Jeſus</hi> of <hi>Nazareth,</hi> that was Born
+of the <hi>Virgin Mary</hi> in <hi>Bethlehem,</hi> in <hi>Ju<g ref="char:EOLhyphen"/>dea;</hi> The Only
+<hi>True</hi> Light of the World, and Seal'd, Sent Saviour of Sin<g ref="char:EOLhyphen"/>ners:</p>
+                  <pb n="18" facs="tcp:151188:10"/>
+                  <p>
+                     <hi>Or</hi> that <hi>Eclipſe</hi> the Sovereignty,<note place="margin">
+                        <hi>Rom.</hi> 9.11. <hi>end. &amp;</hi> 11.5, 7. <hi>Eph.</hi> 2.
+<hi>thro' out John</hi> 1.13. 2 <hi>Tim.</hi> 1.9. <hi>Titus</hi> 3.5,
+7.</note> Free<g ref="char:EOLhyphen"/>neſs, and Efficacy of Divine Grace in Election, Vocation and
+Juſtification, <hi>all</hi> being <hi>only</hi> of Grace, without
+<hi>any</hi> regard had to Good <hi>foreſeen</hi> in, or <hi>done,</hi> or
+<hi>will'd</hi> by the Creature;</p>
+                  <p>
+                     <hi>Or</hi> that <hi>make void</hi> the good old righ<g ref="char:EOLhyphen"/>teous Law
+of God,<note place="margin">
+                        <hi>Hoſea</hi> 8.12. <hi>Mat.</hi> 5.17, 19.
+<hi>Iſa.</hi> 42.21. <hi>Rom.</hi> 3.19, 21. <hi>Gal.</hi> 6.16. 1
+<hi>Tim.</hi> 1.5, 10. <hi>Pſal.</hi> 19.7, 9. <hi>Rom.</hi> 7.12, 22:</note>
+as a <hi>Law</hi> under which <hi>all</hi> Men are born, and as a <hi>Rule of
+Life</hi> to all the Called of God; The Law given to <hi>Adam</hi> in Paradice,
+and afterwards held forth ſummarily in the <hi>Ten Commandments,</hi>
+explain'd by <hi>Chriſt,</hi> his Apoſtles, and Prophets, containing
+<hi>all</hi> Duties whatſoever, (Faith and Repent<g ref="char:EOLhyphen"/>ance not excepted) and
+forbidding <hi>all</hi> manner of ſin.</p>
+                  <p>
+                     <hi>Or</hi> that <hi>transform</hi> the <hi>Gospel</hi> of God's
+Grace into a new <hi>Remedial</hi> Law,<note place="margin">
+                        <hi>Acts</hi> 20.24.
+<hi>Luke</hi> 2.10, 11. <hi>Acts</hi> 13.38, 39</note> com<g ref="char:EOLhyphen"/>manding Faith,
+Repentance, and ſin<g ref="char:EOLhyphen"/>cere Obedience, as the <hi>Terms</hi> and
+<hi>Con<g ref="char:EOLhyphen"/>ditions</hi> of our Juſtification: the <hi>true Go<g ref="char:EOLhyphen"/>spel</hi> being a
+Miniſtration of Grace,<note place="margin">
+                        <hi>Rom.</hi> 3.22, 28.
+<hi>&amp;</hi> 5.1, 2.10.4.</note> 
+                     <hi>freely</hi> tendring to poor ſinners
+the <hi>Suretiſhip</hi> Righteouſneſs of Chriſt, to be relied upon by
+Faith; and <hi>imputed</hi> to them, for their <hi>full</hi> and <hi>free</hi>
+Juſtification before God:</p>
+                  <p>
+                     <hi>Or</hi> that affirm Juſtification is <hi>only</hi> by the
+Death of Chriſt, and conſiſts <hi>only</hi> in Remiſſion of Sin:<note place="margin">
+                        <hi>Rom.</hi> 5.10, 19. <hi>&amp;</hi> 10.4.</note> The Word
+aſſuring us, that Juſtification is as well by <hi>Chriſt's 
+<pb n="19" facs="tcp:151188:10"/>perfect Obedience</hi> to the Law,<note place="margin">
+                        <hi>Heb.</hi> 5.8, 9. <hi>Cant.</hi> 4.7. 2 <hi>Cor.</hi> 5.21.
+<hi>Eph.</hi> 5.27. 1 <hi>Joh.</hi> 3.7.</note> as <hi>by his Death</hi> under
+its Curſe, and therein the Sinner is <hi>not only</hi> forgiven, <hi>but</hi>
+accounted <hi>perfectly</hi> righteous:</p>
+                  <p>
+                     <hi>Or</hi> that render the Elect <hi>leſs</hi> children of
+Wrath by Nature than others,<note place="margin">
+                        <hi>Epheſ.</hi> 2.3, 12.
+<hi>Rom.</hi> 3.9, 19. <hi>Mark</hi> 2.17. <hi>Gal.</hi> 3.22, 23. 1
+<hi>Theſ.</hi> 1.8, 10.</note> by aſ<g ref="char:EOLhyphen"/>ſerting their actual Juſtification
+from Eternity, or at any time before Faith; the whole tenour of Scripture
+diſcover<g ref="char:EOLhyphen"/>ing that <hi>all</hi> are <hi>alike</hi> under ſin, ſhut up
+under the Law till Faith comes,<note place="margin">
+                        <hi>Gal.</hi> 2.16.
+<hi>Pſal.</hi> 86.13.</note> by which Chriſt is apprehended to juſtifie,
+and ſave <hi>even</hi> from the loweſt Hell:</p>
+                  <p>
+                     <hi>Or</hi> that give the leaſt encouragement to ſin:
+<hi>Either</hi> by affirming,<note place="margin">
+                        <hi>Pſal.</hi> 89.31, 33
+<hi>Jer.</hi> 46.28. <hi>Amos</hi> 3.2.</note> that the Iniquities of God's
+Children are not viſited by Stripes conſiſting with the Father's
+loving-kindneſs; <hi>Or,</hi> By refuſ<g ref="char:EOLhyphen"/>ing to pray for the Pardon of
+Sin,<note place="margin">
+                        <hi>Luke</hi> 11.4. <hi>Pſal.</hi> 25.7, 11, 18. 2
+<hi>Cor.</hi> 7.10, 11 <hi>Jam.</hi> 2.14. <hi>ult Jude</hi> 4 <hi>v.
+Phil.</hi> 3.18, 19.</note> which our Lord in his Summary of Prayer hath made
+our daily Duty: <hi>And,</hi> by deny<g ref="char:EOLhyphen"/>ing Repentance and Good Works to be the
+genuine Fruits of Faith; ſo turning the Grace of our Lord Jeſus Chriſt
+into Laſciviouſneſs, and cauſing his Croſs to be evil-ſpoken
+of:</p>
+                  <p>
+                     <hi>Theſe</hi> Doctrines ſhall we <hi>deteſt;</hi>
+                     <note place="margin">
+                        <hi>Pro.</hi> 2.6. <hi>to</hi> 15. <hi>Pſal.</hi> 17.4.19.7. 2
+<hi>Tim.</hi> 3.15.17.</note> Toge<g ref="char:EOLhyphen"/>ther with <hi>all,</hi> that queſtion the
+Validity of <hi>any</hi> part, or the ſufficiency of the <hi>whole</hi>
+written Word, for <hi>perfecting</hi> the Man of God in <hi>all</hi> things
+whatſoever; ſo re<g ref="char:EOLhyphen"/>proaching <pb n="20" facs="tcp:151188:11"/>our <hi>faithful
+Prophet</hi> who hath ſeal'd the Viſion,<note place="margin">
+                        <hi>Mal.</hi>
+2.9. <hi>Heb.</hi> 3.5, 6. <hi>Dan.</hi> 9.24. <hi>Jer.</hi> 8.8, 9.</note> and
+given us a Rule in <hi>every</hi> thing compleat.</p>
+                  <p>
+                     <hi>Thirdly,</hi> Continually ſhall we reject <hi>all</hi>
+Doctrines eſtabliſhing Prieſthoods,<note place="margin">
+                        <hi>Heb.</hi>
+2.17.9.26.10.4, <hi>to</hi> 23.</note> Maſſes, Conditions, or any Creature
+Qualifications, and Confidences, for Sa<g ref="char:EOLhyphen"/>tisfaction,<note place="margin">
+                        <hi>Heb.</hi> 3.1. 1 <hi>John</hi> 2.1, 2. 1 <hi>Tim.</hi>
+2.5.</note> Mediation or Interceſſion with God; <hi>Chriſt alone</hi>
+being <hi>our <hi>High-Prieſt</hi> Propitiation</hi> and
+<hi>Mediatour.</hi>
+                  </p>
+                  <p>Therefore we will not give place by ſubjection,<note place="margin">
+                        <hi>Gal.</hi> 2.5. <hi>&amp;</hi> 5.1. 2 <hi>Tim.</hi> 2.1.
+<hi>Rev.</hi> 14.1. <hi>Gal.</hi> 2.11. <hi>Rev.</hi> 2.10.3.15, 16. 1
+<hi>King.</hi> 18.21. <hi>Zech.</hi> 11.8. <hi>Pſal.</hi> 69.9.119.139. 1
+<hi>Cor.</hi> 4.3. <hi>Pſal.</hi> 69.7. <hi>Heb.</hi> 12.3. <hi>Pſal.</hi>
+69.8. <hi>Gal.</hi> 4.16. <hi>Micah</hi> 7.1, 7. <hi>Luke</hi> 14.26.
+<hi>to</hi> 33.</note> no not for an hour, to <hi>any</hi> that would bring us
+into Bondage, but being ſtrong in the Grace which is in Chriſt Jeſus, and
+ſhewing the Father's Mark in the Forehead, we ſhall with<g ref="char:EOLhyphen"/>ſtand them to
+the Face, ſtedfaſtly reſiſt<g ref="char:EOLhyphen"/>ing even to the Death; Proteſting
+againſt <hi>all</hi> coldneſs, lukewarmneſs, halting or indifferency in
+the Cauſe of Chriſt, which things his Soul hates: The Zeal of Chriſt's
+Houſe having eaten us up, for <hi>his ſake</hi> therefore, ſhall we
+gladly bear the unrighteous Judgments, Reproaches and Contradictions of <hi>all
+ſorts</hi> of ſinners, whether open <hi>Enemies,</hi> falſe
+<hi>Brethren,</hi> lukewarm <hi>Churches</hi> or <hi>Kindred</hi> according to
+the fleſh; profeſſing to have counted the Coſt, and willingly to deny
+and for<g ref="char:EOLhyphen"/>ſake <hi>all,</hi> Friends, Relations, Enjoyments, and whatſoever
+is dear to us in this World,<note place="margin">
+                        <hi>Rev.</hi> 14.4. 1
+<hi>Cor.</hi> 4.9, 13. <hi>Heb.</hi> 11.24, 27</note> that we may follow the
+Lamb whitherſoever he goeth, laying our Repu<g ref="char:EOLhyphen"/>tation, Eſtate, Liberty, yea
+Life it ſelf at <pb n="21" facs="tcp:151188:11"/>the Feet of Jeſus Chriſt,<note place="margin">
+                        <hi>Matth.</hi> 16.24, 27.</note> our Lord and Sa<g ref="char:EOLhyphen"/>viour.</p>
+                  <p n="3">
+                     <hi>3dly,</hi> As a Body of Chriſt,<note place="margin">
+                        <hi>Epheſ.</hi> 4.3. <hi>with Eze.</hi> 20.37 <hi>Gal.</hi>
+5.1.</note> we will <hi>keep the unity of the Spirit in the Bond or Cove<g ref="char:EOLhyphen"/>nant
+of peace:</hi> Maintaining the Privi<g ref="char:EOLhyphen"/>ledges of this Church; every true Church
+conſiſting of ſo many, and <hi>no</hi> more,<note place="margin">1
+<hi>Cor.</hi> 14.23.</note> as can conveniently meet together in <hi>one</hi>
+place,<note place="margin">1 <hi>Pet.</hi> 5.3. 1 <hi>Cor.</hi> 12.28.
+<hi>Epheſ.</hi> 4.16. <hi>Iſa.</hi> 66.21. <hi>Jer.</hi> 3.14, 15. &amp;
+30.21. <hi>Deut.</hi> 1.13. <hi>Acts.</hi> 1.21, 26. <hi>&amp;</hi> 14.23. 1
+<hi>Cor.</hi> 12.7. <hi>&amp;</hi> 14.26. <hi>Rev.</hi> 2 <hi>&amp;</hi> 3
+<hi>cha. Epheſ.</hi> 4.16. <hi>with</hi> 1 <hi>Cor.</hi> 12.12, 27.
+<hi>Gal.</hi> 5.1. 2 <hi>Theſſ.</hi> 2.3, 10. <hi>Rev.</hi> 2.2.12.11.
+<hi>Acts</hi> 15. <hi>&amp;c.</hi>
+                     </note> being Chriſt's <hi>Clergy</hi> or
+Heritage, to whom he hath given a power of ſending forth his Miniſters, and
+to <hi>chuſe</hi> from among themſelves, and to <hi>ordain</hi> their
+<hi>own</hi> Offi<g ref="char:EOLhyphen"/>cers, with Faſting and Prayer, without laying on of Hands,
+the glorious Gifts attending which, being long ſince ceas'd, that
+<hi>Ceremony</hi> is no more to be us'd, than waſhing of Feet, or anointing
+with Oil; This Priviledge therefore, with the Li<g ref="char:EOLhyphen"/>berty of determining
+<hi>all</hi> Matters relating to this Body, we will carefully uphold;
+Renouncing <hi>all</hi> Encroachments made on Faith, and Order, by <hi>Popes,
+Councils,</hi> or any other <hi>whatſoever:</hi> Yet ſhall we not refuſe
+Communion with <hi>true Siſter Chur<g ref="char:EOLhyphen"/>ches,</hi> in giving, and receiving
+<hi>Advice, Supplies</hi> or <hi>Members:</hi>
+                  </p>
+                  <p>And that we may ſpeak the <hi>ſame things,</hi>
+                     <note place="margin">1 <hi>Cor.</hi> 1.10.</note> and have <hi>no</hi> Diviſion among
+us, <hi>No one</hi> of us will go up and down as a Tattler,<note place="margin">
+                        <hi>Levit.</hi> 19.16. <hi>Prov.</hi> 20.19. 1 <hi>Tim.</hi> 5.13.
+<hi>Rom.</hi> 16.17. <hi>Pſal.</hi> 101.</note> Tale-bearer, or
+Buiſie-Body, ſpeaking things which they ought not; but we ſhall mark, and
+avoid <hi>all</hi> Perſons, and Things tending to <hi>Diviſion;</hi>
+Eſpecially, <pb n="22" facs="tcp:151188:12"/>ſhall we refuſe to <hi>receive</hi> into
+our Houſe,<note place="margin">2 <hi>John</hi> 9, 10. <hi>Dan.</hi> 11.30. 1
+<hi>Cor.</hi> 5.11. 1 <hi>Kin.</hi> 13.8.9. <hi>Pſal.</hi> 15.4.
+<hi>Hoſea</hi> 4.15.17 2 <hi>Cor.</hi> 6.17, 18 <hi>Col.</hi> 2.20,
+23.</note> to have <hi>any</hi> Intelligence, or <hi>eat</hi> with
+<hi>Apo<g ref="char:EOLhyphen"/>ſtates,</hi> or them that forſake the <hi>holy Cove<g ref="char:EOLhyphen"/>nant;</hi>
+contemning <hi>all</hi> ſuch <hi>vile</hi> perſons; Nor will we come near
+to, touch, taſte or handle <hi>any</hi> Worſhip after the Command<g ref="char:EOLhyphen"/>ments and
+Doctrines of Men, whatſoever <hi>ſhew</hi> of Wiſdom and Humility it may
+have;<note place="margin">1 <hi>Cor.</hi> 1.10. &amp; 10.17. <hi>Epheſ.</hi>
+4.4, 6.</note> 
+                     <hi>Thus</hi> being perfectly join'd in the <hi>ſame</hi>
+Mind, and in the <hi>ſame</hi> Judg<g ref="char:EOLhyphen"/>ment, we ſhall be as <hi>one</hi>
+Bread, and <hi>one</hi> Body, in <hi>one</hi> Spirit, call'd in <hi>one</hi>
+Hope, having <hi>one</hi> Lord, <hi>one</hi> Faith, <hi>one</hi> Baptiſm,
+<hi>one</hi> God the Father of all, who is above all,<note place="margin">
+                        <hi>Ezek.</hi> 44.6, 9. <hi>Jer.</hi> 51.10. <hi>Pſa.</hi>
+66.16. &amp; 40.9, 10. 1 <hi>Pet.</hi> 3.15. <hi>Phil.</hi> 2.1, 2. 2
+<hi>Chr.</hi> 23.19.</note> and thro' all, and in us all; There<g ref="char:EOLhyphen"/>fore ſhall we
+take <hi>none</hi> into Fellowſhip with us, but ſuch as ſhall
+<hi>declare</hi> what the Lord hath done for their Souls, and openly
+<hi>profeſs</hi> their <hi>Oneneſs</hi> with us in <hi>Faith,</hi> and
+<hi>Order;</hi> rejecting <hi>all</hi> that are viſibly unclean in any thing;
+ſo ſhall we ſtand faſt in the Liberty wherewith Chriſt hath made us
+free,<note place="margin">
+                        <hi>Gal.</hi> 5.1. <hi>Mat.</hi> 11.29.
+<hi>Pſal.</hi> 19.13.</note> eſteeming <hi>this Yoke</hi> of Chriſt
+eaſie, and his Burthen light, And dreading any <hi>wilful Breach</hi> of this
+Covenant,<note place="margin">
+                        <hi>Levit.</hi> 26.25.</note> the quarrel of which
+God will avenge!</p>
+                  <p>
+                     <hi>Finally,</hi> AS a Body of CHRIST in this
+<hi>Oneneſs,</hi>
+                     <note place="margin">
+                        <hi>Phil.</hi> 3.12, 15. 2 <hi>Cor.</hi>
+6.17. <hi>Rev.</hi> 18.4.</note> We Covenant to <hi>preſs for<g ref="char:EOLhyphen"/>ward</hi> after
+ſuch a Separation from the Men of the World, as we are call'd to by God in
+his Word, that as Brethren we might dwell <hi>even</hi> together in Unity,<note place="margin">
+                        <hi>Iſa.</hi> 52.11, 12. <hi>Pſalm</hi> 133.</note> to ſeek
+and to intermeddle with <hi>all</hi> Wiſdom, <pb n="23" facs="tcp:151188:12"/>and to be
+kept from <hi>touching</hi> The Unclean Thing:<note place="margin">
+                        <hi>Prov.</hi>
+18.1. <hi>Pſ.</hi> 106.47, 48.</note> So giving Thanks to the Holy Name of
+God our Saviour, and triumph<g ref="char:EOLhyphen"/>ing in his Praiſe; We ſhall look for, and
+haſten unto the <hi>New Heavens,</hi>
+                     <note place="margin">2 <hi>Pet.</hi> 3.12,
+13.</note> and the <hi>New Earth,</hi> wherein dwells Righteouſ<g ref="char:EOLhyphen"/>neſs, the
+Kingdom of our Lord Jeſus Chriſt,<note place="margin">2 <hi>Tim.</hi>
+4.1.</note> to be reveal'd at his Appearance, who will come ſhortly, and will
+not tarry;<note place="margin">
+                        <hi>Rev.</hi> 22.17, 20, 21.</note> The Spirit and
+the Bride ſay come, and let him that heareth ſay come, even ſo come,
+<hi>Lord Jeſus,</hi> come quickly: <hi>Amen!</hi>
+                  </p>
+                  <p>AND now bleſſing our God for eſta<g ref="char:EOLhyphen"/>bliſhing us a
+<hi>Church</hi> of Chriſt by Cove<g ref="char:EOLhyphen"/>nant,<note place="margin">
+                        <hi>Pſal.</hi>
+105.8, 10 2 <hi>Cor.</hi> 1.21. <hi>Epheſ.</hi> 2.22. 1 <hi>Tim.</hi> 3.15.
+<hi>Rev.</hi> 2.7. <hi>Matth.</hi> 5.14. <hi>Pſal.</hi> 46.5. <hi>Matth.</hi>
+16.18. 2 <hi>Cor.</hi> 13.14.</note> a <hi>Houſe</hi> for himſelf to dwell
+in, a <hi>Pillar and Ground</hi> of Truth, a <hi>Golden Candleſtick</hi> to
+hold forth his Light to the World; Truſting that the Lord is in the midſt
+of us, and that the Gates of Hell ſhall not prevail againſt us; We com<g ref="char:EOLhyphen"/>mend
+our ſelves to the <hi>Grace</hi> of our Lord Jeſus Chriſt, the
+<hi>Love</hi> of God, and the <hi>Communion</hi> of the Holy Spirit,<note place="margin">
+                        <hi>Pſal.</hi>
+78.37. <hi>Col.</hi> 2.5. <hi>Iſa.</hi> 45.24. 2 <hi>Cor.</hi> 12.9.</note>
+whereby our hearts ſhall be ſtedfaſt in this Cove<g ref="char:EOLhyphen"/>nant;
+<hi>Expecting</hi> from Chriſt our Media<g ref="char:EOLhyphen"/>tour, <hi>All</hi> Righteouſneſs
+and Strength, <hi>Strength</hi> to ſupply us with <hi>all</hi> Grace to
+do,<note place="margin">
+                        <hi>Heb.</hi> 9.14, 15.</note> and
+<hi>Righteouſneſs</hi> to pardon <hi>all</hi> our failings in this our
+Covenant;<note place="margin">
+                        <hi>Gal.</hi> 2.16.</note> not looking to be
+juſtify'd by our Obedi<g ref="char:EOLhyphen"/>ence hereto,<note place="margin">
+                        <hi>Heb.</hi> 13.20,
+21</note> 
+                     <hi>all</hi> our Salvation being in the Blood of the Everlaſting
+Covenant of Grace, made <hi>with</hi> Chriſt for us,<note place="margin">
+                        <hi>Iſa.</hi> 55.3.</note> and <pb n="24" facs="tcp:151188:13"/>given
+<hi>to</hi> us as a Free Teſtament:<note place="margin">2 <hi>Chr.</hi> 23.16.
+<hi>&amp;</hi> 34.30, 32.</note> This Covenant being the <hi>Holy Bond</hi> of
+our Souls to <hi>be the Lord's</hi> People, to walk <hi>fully after the
+Lord,</hi> and to keep his <hi>Commandments.</hi>
+                  </p>
+                  <closer>
+                     <dateline>In Teſtimony of O<g ref="char:V">Ʋ</g>R <hi>unfeigned Sincerity</hi>
+herein, We make it <hi>Sure</hi> by Writing it:<note place="margin">
+                           <hi>Neh.</hi> 9.38. <hi>with chap.</hi> 10.16, 28 <hi>Ezek.</hi>
+43.11. <hi>Iſa.</hi> 44.5.</note>
+And <hi>We,</hi> our <hi>Elders</hi>
+and <hi>Deacons</hi> Subſcribe it with the Hand:
+<date>This Thirtieth Day of the <hi>Eleventh</hi> Month,
+MDCXCIX.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:151188:13"/>
+                  <p>THE <hi>Catechiſm</hi> OR, BRIEF INSTRUCTION In the Faith AND
+Order Of the Goſpel. For the CHURCH of CHRIST. Meeting at
+<hi>Horſly-Down</hi> in <hi>Southwark.</hi>
+                  </p>
+                  <q>
+                     <bibl>
+                        <hi>1</hi> JOHN <hi>II.</hi>
+                     </bibl> 
+                     <p>I have written unto you <hi>Fathers,</hi> becauſe ye have
+known him that is from the beginning. I have written unto you <hi>Young
+Men,</hi> becauſe ye are ſtrong, and the Word of God abideth in you, and ye
+have overcome the wicked one: I have written unto you, <hi>Little
+Children,</hi> becauſe your ſins are forgiven you for his Name ſake, and
+ye have known the Father.</p>
+                  </q>
+                  <p>
+                     <hi>LONDON:</hi> Printed for the Uſe of the Church. 1700.</p>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:151188:14"/>
+                  <pb facs="tcp:151188:14"/>
+                  <head>THE CONTENTS OF THE <hi>Catechiſm.</hi>
+                  </head>
+                  <p>THIS <hi>Catechiſm</hi> contains <hi>Seven Leſſons</hi>
+which by degrees lead into the Knowledge of the Truth as it is in JESUS:</p>
+                  <p>The <hi>Firſt Leſſon</hi> opens with a Diſcovery <hi>of
+God,</hi> that his Awe may be upon the Heart:</p>
+                  <p>The <hi>Second Leſſon</hi> ſpeaks of the <hi>Decrees</hi>
+of God, and his <hi>Creation,</hi> that in ſome meaſure they may be
+underſtood: Afterwards</p>
+                  <p>The <hi>Third Leſſon</hi> makes known the <hi>Fall</hi> of
+Man, with the Bitter <hi>Fruits</hi> of it, to humble and abaſe the heart
+before God; And then in</p>
+                  <p>The <hi>Fourth Leſſon,</hi> Comfort is adminiſtred from
+the Glad Tidings of <hi>Redemption</hi> by the Perſon of <hi>Christ:</hi> And
+that this Salvation may not only be heard of, but felt</p>
+                  <p>The <hi>Fifth Leſſon</hi> explains the <hi>Manner</hi> of
+the <hi>Application of this Redemption</hi> by Faith to the <pb facs="tcp:151188:15"/>Soul;
+which ſavingly experienc'd, will draw forth Deſires to underſtand</p>
+                  <p>The <hi>Sixth Leſſon,</hi> In which the good Old
+<hi>Law</hi> and <hi>Gospel</hi> of God are briefly cleared up, and
+<hi>diſtinguiſht;</hi> the good knowledge whereof will lead down to</p>
+                  <p>The <hi>Seventh</hi> and laſt <hi>Leſſon,</hi> containing
+ſome Light about <hi>The great Duty of glorifying God in his Churches;</hi>
+which hereafter (if God will) may be more fully Explain'd: This great Duty
+<hi>all</hi> Chriſtians ſhould covet to underſtand, ſince in the
+<hi>Church only</hi> can they <hi>give</hi> moſt Glory to Chriſt, and
+<hi>partake</hi> moſt of his Glory in this Life; And thro' theſe <hi>Gates
+of Heaven,</hi> upright Souls have an abundant Entrance adminiſtred to them
+into the Eternal Joy of their Lord and Maſter; with a brief Account whereof
+the <hi>Catechiſm</hi> concludes.</p>
+                  <p>The <hi>Former Part</hi> of the <hi>Catechiſm</hi> contains
+thoſe Truths that are more <hi>generally</hi> receiv'd, which are given in
+ſhorter <hi>Leſſons,</hi> and ſhorter <hi>Anſwers,</hi> as
+<hi>Milk</hi> for <hi>Babes:</hi> By the good Digeſtion of which the Capacity
+will be enlarg'd to receive the Truths that <hi>follow,</hi> which are
+contain'd in larger <hi>Leſſons,</hi> and longer <hi>Anſwers,</hi> that
+the Truth might be kept in an <hi>intire Propoſition,</hi> and not
+<hi>mangled</hi> by <hi>many Queſtions;</hi> and for this there was a more
+<hi>special</hi> Neceſſity in the inſtruction about <hi>glorifying God in
+his Churches;</hi> Which is the <hi>ſtrong meat</hi> belonging to them that
+are of more <hi>full age,</hi> who by reaſon of Uſe have their Sences
+exercis'd to diſcern both good and evil: Upon this <hi>ſtrong meat</hi> the
+<hi>spiritual man</hi> will heartily feed; for only <hi>Babes</hi> and
+<hi>carnal</hi> feed altogether upon <hi>Milk.</hi>
+                  </p>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="lesson">
+                  <pb n="5" facs="tcp:151188:15"/>
+                  <head>The <hi>Firſt</hi> Leſſon, Of <hi>GOD.</hi>
+                  </head>
+                  <p>Queſtion 1. <hi>WHAT are You?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> By Nature I am a poor loſt Sinner againſt
+<hi>God.</hi>
+                     <note place="margin">
+                        <hi>Rom.</hi> 3.9, 10 20. <hi>Eph.</hi>
+2.1.3.12.</note>
+                  </p>
+                  <p>Queſtion 2. <hi>What is God?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> GOD is the Eternal,<note place="margin">
+                        <hi>John</hi> 4.24. <hi>Rom.</hi> 1.20. <hi>Iſa.</hi> 44.24.
+<hi>Dan.</hi> 4.35. 1 <hi>Tim.</hi> 6.16.</note> Almighty Spirit, who made
+<hi>All</hi> things by His <hi>Power,</hi> and orders <hi>All</hi> things by
+his <hi>Providence,</hi> whom no Man hath ſeen, or can ſee.</p>
+                  <p>Queſtion 3. <hi>How then ſhall we know God?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Rom.</hi> 1.19, 20.
+<hi>Pſal.</hi> 19. <hi>all. Pſal.</hi> 138.2.</note> GOD is known partly by
+<hi>Conſcience</hi> within us; and by his <hi>Works</hi> without us; But more
+fully by his <hi>Written Word.</hi>
+                  </p>
+                  <p>Queſtion 4. <hi>How ſhall we know God by</hi> Conſcience
+<hi>within us?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> GOD hath ſhown <hi>all</hi> Men ſomewhat
+of Himſelf by Natural Reaſon,<note place="margin">
+                        <hi>Rom.</hi> 2.14, 15.
+<hi>Prov.</hi> 20.27. <hi>Rom.</hi> 1.21.</note> and <hi>Conſcience</hi>
+within them; witneſſing (tho' darkly) that there is a Juſt and Holy
+God.</p>
+                  <pb n="6" facs="tcp:151188:16"/>
+                  <p>Queſtion 5. <hi>How do the</hi> Works <hi>of God make him
+known?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Pſalm</hi> 8.
+<hi>all. Jer.</hi> 10.12. <hi>Acts</hi> 14.17. <hi>Rom.</hi> 1.20.</note> The
+Heavens, the Earth, the Seas, and <hi>all</hi> things therein, ſhew forth the
+Power, Wiſdom, and Goodneſs of GOD the Maker of all, ſo that <hi>All</hi>
+are without Excuſe.</p>
+                  <p>Queſtion 6. <hi>How doth the</hi> Written Word <hi>reveal God
+more clearly?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">1 <hi>John</hi> 5.7.
+<hi>Iſa.</hi> 43.10, 11. 1 <hi>Theſſ.</hi> 1.9. <hi>Pſal.</hi> 83.18.
+&amp; <hi>Pſal.</hi> 96.5. 1 <hi>Cor.</hi> 8.4.6.</note> The <hi>Written
+Word</hi> of God re<g ref="char:EOLhyphen"/>veals, That there are <hi>Three</hi> in Heaven, the Father,
+the Son, and the Holy Spirit, and theſe <hi>Three</hi> are <hi>One</hi>
+Living and True GOD, whoſe Name alone is <hi>JEHOVAH,</hi> and <hi>all</hi>
+other Gods are Idols.</p>
+                  <p>Queſtion 7. <hi>How can it be that there are</hi> Three
+<hi>Perſons in the Godhead, and yet but</hi> ONE <hi>God?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Joh</hi> 11.7,
+8.9.36.26.37.19, 23, 24. <hi>Prov.</hi> 30.4, 5.</note> 'Tis impoſſible for
+any Man to comprehend the unſearchable Myſtery of the <hi>Trinity</hi> in
+<hi>Unity,</hi> or <hi>Three</hi> Perſons in the Godhead: We ſhould
+there<g ref="char:EOLhyphen"/>fore readily believe whatſoever GOD reveals of Himſelf in His Word,
+ſince none in <hi>all</hi> his <hi>Creation</hi> can find him out to
+Perfection!<note place="margin">2 <hi>Chro.</hi> 20.20.</note>
+                  </p>
+               </div>
+               <div n="2" type="lesson">
+                  <pb n="7" facs="tcp:151188:16"/>
+                  <head>The <hi>Second</hi> Leſſon About the <hi>Decrees</hi> and
+<hi>Creation.</hi>
+                  </head>
+                  <p>Queſtion 1. <hi>WHY did God create all things?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> GOD the Father, Son,<note place="margin">
+                        <hi>Iſa.</hi> 57.15. 1 <hi>Tim.</hi> 6.16. <hi>Col.</hi> 1.16.
+<hi>Rev.</hi> 4.11.</note> and Holy Spirit, Bleſſed and Happy in the
+En<g ref="char:EOLhyphen"/>joyment of Himſelf from all Eternity, <hi>Decreed</hi> to Create all
+things, to ſhow forth his Glory in Chriſt Jeſus.</p>
+                  <p>Queſtion 2. <hi>What are God's Eternal</hi> Decrees?</p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Acts</hi> 15.18.17.26.
+<hi>Iſa.</hi> 14.24.46.10.</note> GOD's Eternal <hi>Decrees</hi> are his
+Purpoſe, and his Counſel in him<g ref="char:EOLhyphen"/>ſelf, before any thing was,
+<hi>fore-ordaining</hi> all <hi>Perſons</hi> and <hi>Things</hi> that ever
+ſhould be.</p>
+                  <p>Queſtion 3. <hi>When did Ged make all things?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Gen.</hi> 1.1.9, 10,
+31.</note> In <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <hi>beginning</hi> God crea<g ref="char:EOLhyphen"/>ted the Heaven, the Earth, the Seas, and all things
+therein in Six Days.</p>
+                  <p>Queſtion 4. <hi>Of what did God make all things?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Job</hi> 26.7.
+<hi>Heb.</hi> 11.3.</note> GOD made things of <hi>Nothing,</hi> ſo that the
+things which are ſeen, were not made of things which do appear.</p>
+                  <pb n="8" facs="tcp:151188:17"/>
+                  <p>Queſtion 5. <hi>How did God create all things?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>John</hi> 1.3.
+<hi>Heb.</hi> 1.2, 10. <hi>Col.</hi> 1.16.</note> GOD created all things by his
+<hi>Son</hi> Jeſus Chriſt, whom he ap<g ref="char:EOLhyphen"/>pointed <hi>Lord</hi> and
+<hi>Heir</hi> of all.</p>
+                  <p>Queſtion. 6. <hi>In what State did God make all
+things?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Gen.</hi> 1.27.31.
+<hi>Eccl.</hi> 7.29.</note> GOD made Angels and Man, and <hi>all</hi> things
+<hi>very good.</hi>
+                  </p>
+                  <p>Queſtion 7. <hi>What are Angels?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Heb.</hi> 1.7.14.
+<hi>Pſal.</hi> 103.20.104.4.</note> 
+                     <hi>Angles</hi> are Miniſtring
+Spi<g ref="char:EOLhyphen"/>rits, mighty in Strength, to wait about the Throne of GOD, and to do all
+his Commands.</p>
+                  <p>Queſtion 8. <hi>What Creature is</hi> Man?</p>
+                  <p>
+                     <hi>Anſwer.</hi> GOD form'd Man of the <hi>Duſt</hi> of the
+ground,<note place="margin">
+                        <hi>Gen.</hi> 2.7. <hi>Matth.</hi> 10.28.
+<hi>Gen.</hi> 1.27. <hi>Eccl.</hi> 7.29. <hi>Gen.</hi> 3.20.</note> and gave
+him an im<g ref="char:EOLhyphen"/>mortal <hi>Soul;</hi> ſo God created <hi>Man</hi> in his own Image,
+upright, <hi>Male</hi> and <hi>Fe<g ref="char:EOLhyphen"/>male</hi> Created he them, and they were
+call'd <hi>Adam</hi> and <hi>Eve.</hi>
+                  </p>
+                  <p>Queſtion 9. <hi>What did God do with Man when he made
+him?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> The Lord God took Man, and put him into the
+Garden of <hi>Eden,</hi>
+                     <note place="margin">
+                        <hi>Gen.</hi> 2.8.16, 17</note> and
+gave him a <hi>Law</hi>
+                     <note n="*" place="margin">
+                        <hi>Note,</hi> 'Twas a Law
+<hi>given to</hi> Man, not a Covenant of Works <hi>made with</hi> Man.</note>,
+forbidding him to eat of the Tree of Knowledge: for in the day he eat thereof
+he ſhould ſurely die.</p>
+               </div>
+               <div n="3" type="lesson">
+                  <pb n="9" facs="tcp:151188:17"/>
+                  <head>The <hi>Third</hi> Leſſon. About the <hi>Fall,</hi> and
+the <hi>Fruits</hi> of it.</head>
+                  <p>Queſtion 1. <hi>HOW long did Man continue Upright?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> Man that was in Honour,<note place="margin">
+                        <hi>Pſ.</hi> 49.12. <hi>Heb. Gen.</hi> 3.6. <hi>Eccl.</hi>
+7.29.</note> abode not for a Night, but by ſinning againſt <hi>God,</hi>
+fell from his Innocency and Upright<g ref="char:EOLhyphen"/>neſs.</p>
+                  <p>Queſtion 2, <hi>How came Man to fall by Sin?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> Man being left to the Free<g ref="char:EOLhyphen"/>dom of his own
+Will,<note place="margin">
+                        <hi>Ge.</hi> 3.6, 7, 8, 13</note> fell into Sin thro'
+the Temptation of that old Serpent,<note place="margin">
+                        <hi>John</hi>
+8.44.</note> the <hi>Devil,</hi> in tranſgreſſing the Law giv'n him by
+God.</p>
+                  <p>Queſtion 3. <hi>What Creature is the Devil?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Job</hi> 4.18. 2
+<hi>Pet.</hi> 2.4. <hi>Jude</hi> 6. 1 <hi>Tim.</hi> 3.6. 1 <hi>Pet.</hi>
+5.8.</note> The <hi>Devil</hi> was once an An<g ref="char:EOLhyphen"/>gel of Light, but rebelling
+againſt GOD, and drawing other Angels with him, they were <hi>all</hi>
+condemn'd into Hell for their Pride; and now theſe Devils go about as
+<hi>roaring Lions</hi> ſeeking whom they <hi>may</hi> devour.</p>
+                  <pb n="10" facs="tcp:151188:18"/>
+                  <p>Queſtion 4. <hi>What was that Sin by which the Devil tempted
+Man to fall from God?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> The <hi>Devil</hi> in the <hi>Serpent</hi>
+tempted the Woman <hi>to eat of the for<g ref="char:EOLhyphen"/>bidden fruit,</hi>
+                     <note place="margin">
+                        <hi>Gen.</hi> 3.1. <hi>to</hi> 7. 1 <hi>Tim.</hi> 2.14. 2
+<hi>Cor.</hi> 11.3.</note> and She, being <hi>firſt</hi> deceiv'd, tempted
+her <hi>Husband</hi> to eat with her, by which they <hi>both</hi> fell from
+God.</p>
+                  <p>Queſtion 5. <hi>What follow'd Man's falling from God?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.<note place="margin">
+                           <hi>Gen.</hi> 2.17.3.16.19.
+<hi>Rom.</hi> 5.12.8.22.</note> Adam</hi> and <hi>Eve</hi> falling from GOD,
+receiv'd the Sentence of <hi>Death,</hi> that is, dreadful Miſery to
+<hi>themſelves,</hi> to their <hi>Poſterity,</hi> and to <hi>all</hi> the
+Creation ſubjected to them.</p>
+                  <p>Queſtion 6. <hi>What special Miſery came on</hi> Adam
+<hi>and</hi> Eve <hi>by the Pall?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> Aſſoon as <hi>Adam</hi> and <hi>Eve</hi>
+fell they died <hi>spiritually,</hi>
+                     <note place="margin">
+                        <hi>Rom.</hi> 3.24.
+<hi>Gen.</hi> 3.7, 10.16.19.23.24.</note> that is, they loſt the Image of GOD
+in their Souls, and they ſaw that they were <hi>Naked,</hi> or expos'd to
+<hi>all</hi> manner of Death, and were driven out of <hi>Paradice.</hi>
+                  </p>
+                  <p>Queſtion 7. <hi>What Miſery came on Adams</hi> Poſterity
+<hi>by his Fall?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> All Mankind being the Sons and Daughters of
+<hi>Adam,</hi>
+                     <note place="margin">1 <hi>Co.</hi> 15.21, 22 <hi>Rom.</hi> 5.12,
+14, 17, 18.</note> and in his Loins, ſinn'd in him, and ſo Death paſt
+upon them <hi>all,</hi> therefore <hi>all</hi> are born in <hi>spirituall</hi>
+Death, under the Sen<g ref="char:EOLhyphen"/>tence of <hi>eternal</hi> Death, and undergo the
+<hi>natural</hi> death of the Body.</p>
+                  <pb n="11" facs="tcp:151188:18"/>
+                  <p>Queſtion 8. <hi>I find then that the</hi> death <hi>of
+the</hi> Body <hi>is the fruit of Sin; But what is that</hi> ſpiritual
+<hi>Death all are born in?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> The <hi>spiritual death</hi> all are born
+in,<note place="margin">
+                        <hi>Rom.</hi> 3.9, 19. <hi>Pſal.</hi> 51.5.
+<hi>Rom.</hi> 3.10, 14. <hi>Epheſ.</hi> 4.18. <hi>Titus</hi> 1.15.
+<hi>Zech.</hi> 7.12. <hi>Titus</hi> 3.3. <hi>Pſalm</hi> 58.3.</note> is the
+loſs of God's Image in the Soul, all being conceiv'd in Sin, and born without
+any Righteouſneſs, full of all evil, having their <hi>minds</hi> blinded,
+their <hi>Conſciences</hi> defil'd, their <hi>Heants</hi> harden'd, their
+<hi>Wills</hi> corrupted, their <hi>Affections</hi> per<g ref="char:EOLhyphen"/>verted, and going
+<hi>aſtray</hi> from the Womb; and <hi>all</hi> this is call'd <hi>Original
+Sin.</hi>
+                  </p>
+                  <p>Queſtion 9. <hi>What is that</hi> Eternal <hi>Death to which
+all are expos'd?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> All the Children of <hi>Adam</hi> by Nature
+are born under the Sentence of <hi>Eternal</hi> Death, which is,<note place="margin">
+                        <hi>Rom.</hi> 3.9. <hi>with</hi> 6.23. <hi>Rom.</hi> 5.12, 14.
+<hi>Iſa.</hi> 1.9. <hi>Rom.</hi> 9.29.11.5, 7. 1 <hi>Theſſ.</hi>
+5.9.</note> being ſepara<g ref="char:EOLhyphen"/>ted from GOD for ever in Hell; this <hi>all</hi>
+deſerve, and would feel, if the Lord had not choſen in <hi>Christ</hi> a
+remnant, to <hi>eſcape</hi> the Wrath to come.</p>
+                  <p>Queſtion 10. <hi>What Miſery came on the reſt of the</hi>
+Creation <hi>by Adam's Fall?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> The Ground was curſed for <hi>Adam</hi>'s
+ſake,<note place="margin">
+                        <hi>Gen.</hi> 3.17, 18. <hi>Rom.</hi> 8.20,
+22.</note> and ſo brings forth Briars and Thorns; yea, becauſe of this the
+<hi>whole</hi> Creation groaneth.</p>
+                  <p>Queſtion 11. <hi>Can any Man help him<g ref="char:EOLhyphen"/>ſelf out of this
+miſerable State?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> There is <hi>no</hi> Man can by any Means
+redeem his <hi>own</hi> Soul,<note place="margin">
+                        <hi>Pſal.</hi> 49.7, 8.
+<hi>Hoſea</hi> 13.9.</note> nor give to GOD a Ranſom for himſelf, or for
+<hi>any</hi> of the Creation from this dreadful Miſery.</p>
+               </div>
+               <div n="4" type="lesson">
+                  <pb n="12" facs="tcp:151188:19"/>
+                  <head>The <hi>Fourth</hi> Leſſon About <hi>Redemption</hi> by
+the Perſon of <hi>CHRIST.</hi>
+                  </head>
+                  <p>Queſtion 1. <hi>DID God leave</hi> all <hi>Men in this
+miſe<g ref="char:EOLhyphen"/>rable condition to periſh for ever?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> GOD did not leave <hi>all</hi> Men to
+periſh in their Miſery,<note place="margin">
+                        <hi>Gen.</hi> 3.8, 15. <hi>with
+Heb.</hi> 2.14, 16.</note> but pre<g ref="char:EOLhyphen"/>ſently upon <hi>Adam</hi>'s Fall, reveal'd
+to him Salvation by <hi>Jeſus Chriſt,</hi> the Seed of the Woman.</p>
+                  <p>Queſtion 2. <hi>Who is Jeſus Chriſt?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> Jeſus Chriſt is the only Be<g ref="char:EOLhyphen"/>gotten Son of
+God,<note place="margin">
+                        <hi>John</hi> 3.16. 1 <hi>Tim.</hi> 3.16.
+<hi>Matth.</hi> 1.21, 23</note> 
+                     <hi>God</hi> and <hi>Man</hi> in <hi>One</hi>
+Perſon, the <hi>only</hi> Saviour of Sinners.</p>
+                  <p>Queſtion 3. <hi>How can Jeſus Christ be</hi> God
+<hi>and</hi> Man <hi>in One Perſon?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> This is the great Myſtery of
+<hi>Godlineſs,</hi>
+                     <note place="margin">1 <hi>Tim.</hi> 3.16. <hi>Heb.</hi>
+2.14.7.26. <hi>Matth.</hi> 1.23.</note> that Jeſus Chriſt being <hi>Very
+God</hi> took on him the Nature of <hi>Man,</hi> yet without Sin, and ſo in
+<hi>One</hi> Perſon is <hi>both</hi> God and Man.</p>
+                  <p>Queſtion 4. <hi>How did Jeſus Chriſt the Son of God take
+our Nature upon him?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer,</hi>
+                     <note place="margin">
+                        <hi>Luke</hi> 1.35.
+<hi>Matth.</hi> 1.18.2.1.</note> The Holy Spirit overſhadow<g ref="char:EOLhyphen"/>ing the
+<hi>Virgin Mary,</hi> ſhe conceiv'd, and that Holy Thing that was Born of her
+<pb n="13" facs="tcp:151188:19"/>in <hi>Bethlehem</hi> in <hi>Judea,</hi>
+                     <note place="margin">
+                        <hi>Luke</hi> 1.32.</note> was Jeſus Chriſt the Son of the
+Moſt High God!</p>
+                  <p>Queſtion 5. <hi>Why was Jeſus Christ Born into the
+World?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> Jeſus Chriſt came into the World to
+ſave Sinners,<note place="margin">1 <hi>Tim.</hi> 1.15.2.5.</note> as being
+<hi>Media<g ref="char:EOLhyphen"/>tour</hi> between God and Men.</p>
+                  <p>Queſtion 6. <hi>How doth Jeſus Chriſt ſave
+Sinners?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> Jeſus Chriſt ſaves Sinners
+<hi>freely</hi> by his Grace,<note place="margin">
+                        <hi>Epheſ.</hi> 2.8.
+<hi>Titus</hi> 3.4, 5. 2 <hi>Tim.</hi> 1.9. <hi>Iſa.</hi> 52.3. <hi>Heb.</hi>
+7.24, 25. <hi>Acts</hi> 3.20, 26. <hi>Pſalm</hi> 110. <hi>all and</hi> 2.2,
+6.</note> without any Con<g ref="char:EOLhyphen"/>ditions or Qualifications done by them, being the
+only <hi>Prieſt</hi> to atone for them, by the Sacrifice of himſelf; the
+true <hi>Prophet</hi> to teach them by his Word and Spirit; by which alſo as
+<hi>King</hi> he Rules them.</p>
+                  <p>Queſtion 7. <hi>How is Jeſus Chriſt</hi> Me<g ref="char:EOLhyphen"/>diatour
+<hi>between God and Men?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> Jeſus Chriſt is the <hi>Media<g ref="char:EOLhyphen"/>tour</hi>
+between God and Men,<note place="margin">
+                        <hi>Heb.</hi> 9.14, 15. <hi>Eph.</hi>
+2.13, 16.</note> as he makes up the Breach between an <hi>offended</hi> God,
+and <hi>offending</hi> Men, according to the Ever<g ref="char:EOLhyphen"/>laſting Covenant of
+Grace.</p>
+                  <p>Queſtion 8. <hi>What is the Everlaſting Covenant of
+Grace?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 89.3.28
+<hi>to</hi> 38. <hi>Iſa.</hi> 53.10, 11. <hi>Pſal.</hi> 40.6, 8.</note> The
+Covenant of Grace is the Eternal Agreement of the <hi>Father</hi> with the
+<hi>Son,</hi> in which the Father on the part of the Godhead promis'd to the
+Son, Eternal Life for all the Elect, upon <pb n="14" facs="tcp:151188:20"/>his performing
+<hi>all</hi> Conditions,<note place="margin">
+                        <hi>Iſa.</hi> 26.12.</note>
+                     <hi>for</hi> and <hi>in</hi> them that ſhall be ſav'd.</p>
+                  <p>Queſtion 9. <hi>But is not the Covenant of Grace made with
+Men?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> The Covenant of Grace is made only
+<hi>with</hi> Jeſus Chriſt as the Head and Repreſentative of the
+Elect,<note place="margin">
+                        <hi>Zeeh.</hi> 9.11. <hi>Iſa.</hi> 42.6.
+<hi>Eph.</hi> 1.10. <hi>Iſa.</hi> 55.1, 3. <hi>Ezek.</hi> 16.6.
+<hi>Pſal.</hi> 50.5. <hi>Jer.</hi> 31.31, 33. <hi>Heb.</hi> 8.6, 13.</note>
+                     <hi>to</hi> whom; when they believe, 'tis made over as a <hi>Promiſe</hi> in
+a gracious <hi>Church-Covenant,</hi> founded upon it, and made with the Saints
+<hi>before</hi> Chriſt came in the fleſh; and ſince by him renew'd to the
+Church, and their Seed; which is call'd the <hi>firſt</hi> and
+<hi>ſecond</hi> Covenant.</p>
+                  <p>Queſtion 10. <hi>But are not Men to perform ſome of the</hi>
+Conditions <hi>of the Covenant of Grace?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> No Man can perform <hi>any one</hi> Condition
+of the Covenant for Salvati<g ref="char:EOLhyphen"/>on;<note place="margin">2 <hi>Cor.</hi> 3.5.
+<hi>Iſa.</hi> 26.12. <hi>Phil.</hi> 2.13. <hi>Eph.</hi> 2.8. 2 <hi>Tim.</hi>
+1.1. 1 <hi>Cor.</hi> 11.25. <hi>Iſa.</hi> 55.3.49.8.</note> Jeſus Chriſt
+doth all <hi>for</hi> his People that procures their Salvation, and all
+<hi>in</hi> them to make them lay hold of this Salvation, and ſo gives the
+Covenant of Grace, as a Free <hi>Promiſe,</hi> or Teſtament to them in his
+Blood, therefore he is call'd <hi>the Covenant.</hi>
+                  </p>
+                  <p>Queſtion 11. <hi>How doth Jeſus Christ according to the
+Covenant of Grace, make up the Breach between God and Man?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Heb.</hi> 7.22. 2
+<hi>Cor.</hi> 5.21.</note> Jeſus Chriſt makes up the Breach between God and
+Man as his People's <hi>Surety</hi> in their <hi>Stead;</hi> being 
+<pb n="15" facs="tcp:151188:20"/>made under the Law,<note place="margin">
+                        <hi>Gal.</hi> 4.4, 5.
+<hi>Matth.</hi> 5.17. <hi>Gal.</hi> 3.13. 1 <hi>Cor.</hi> 15.3, 4.
+<hi>Rom.</hi> 1.3, 4. <hi>and</hi> 4.25.</note> 
+                     <hi>obeying</hi> it per<g ref="char:EOLhyphen"/>fectly
+in his Life, and <hi>dying</hi> the ſhame<g ref="char:EOLhyphen"/>ful Death of the Croſs under the
+Curſe of it, and <hi>riſing</hi> again the Third Day, he ſo fulfill'd
+<hi>all</hi> Conditions of Life, and Salvation for them.</p>
+                  <p>Queſtion 12. <hi>Why was it needful that Jeſus Chriſt
+ſhould be God and Man to make up this Breach?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> It was needful that Chriſt ſhould be
+<hi>Man</hi> to <hi>obey</hi> the Law,<note place="margin">
+                        <hi>Heb.</hi> 2.14,
+16.</note> and die under its Curſe in the <hi>ſame</hi> Nature that
+ſinn'd; and alſo <hi>God,</hi>
+                     <note place="margin">
+                        <hi>Acts</hi>
+20.28.</note> to <hi>ſupport</hi> him under, and give a <hi>value</hi> to all
+that he <hi>did,</hi> and <hi>ſuffer'd</hi> for the Salvation of his
+People.</p>
+                  <p>Queſtion 13. <hi>Is there no Salvation to be had but by
+Jeſus Chriſt God-Man?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> There is <hi>no</hi> Salvation in
+<hi>any</hi> other but Jeſus Chriſt;<note place="margin">
+                        <hi>Acts</hi> 4.12.
+<hi>Iſa.</hi> 43.11. <hi>Rom.</hi> 4.25.</note> for there is <hi>none</hi>
+other Name under Heaven given among Men, whereby we muſt be ſav'd but by
+<hi>Jeſus Chriſt,</hi> who <hi>died</hi> for our Sins, and <hi>roſe
+again</hi> for our Juſtification!</p>
+               </div>
+               <div n="5" type="lesson">
+                  <pb n="16" facs="tcp:151188:21"/>
+                  <head>The <hi>Fifth</hi> Leſſon. About the <hi>Application</hi>
+of Redemption.</head>
+                  <p>Queſtion 1. <hi>WILL Jeſus Chriſt ſave all Men?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> Jeſus Chriſt ſo ſaves <hi>all</hi>
+the World from preſent deſtruction,<note place="margin">
+                        <hi>Pſal.</hi>
+36.6. <hi>with</hi> 1 <hi>Tim.</hi> 4.10. <hi>Heb.</hi> 2.9, 10. <hi>Rom.</hi>
+9.27. 1 <hi>Tim.</hi> 4, 10.</note> that <hi>all</hi> men have ſome
+<hi>outward</hi> Benefits by his Ran<g ref="char:EOLhyphen"/>ſom; but he doth only ſave a
+<hi>certain number</hi> from Eternal Death, whence he is ſaid
+<hi>specially</hi> to ſave them that be<g ref="char:EOLhyphen"/>lieve.</p>
+                  <p>Queſtion 2. <hi>Who are thoſe that Jeſus Chriſt will
+ſave from</hi> Eternal <hi>Death?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> Jeſus Chriſt ſaves none from
+<hi>Enternal</hi> Death but the <hi>Elect,</hi>
+                     <note place="margin">
+                        <hi>Joh.</hi>
+17.2, 9, 12, 19. <hi>Rom.</hi> 11.5, 7. 2 <hi>Theſſ.</hi> 2.11, 14</note>
+thoſe that were choſen to Salvation <hi>before</hi> the foun<g ref="char:EOLhyphen"/>dation of the
+World; the <hi>reſt</hi> die in their Sins and are damn'd, notwith<g ref="char:EOLhyphen"/>ſtanding
+all the <hi>good things</hi> they enjoy in <hi>this life</hi> by Chriſt.<note place="margin">
+                        <hi>Luke</hi> 16.25.</note>
+                  </p>
+                  <p>Queſtion 3. <hi>How comes it that only ſome are</hi>
+elected?</p>
+                  <p>
+                     <hi>Anſwer.</hi> It pleas'd God of his own Will,<note place="margin">
+                        <hi>Epheſ.</hi> 4.5, 11. <hi>Rom.</hi> 9.11. <hi>to</hi> 24.
+<hi>Prov.</hi> 16.4. 1 <hi>Pet.</hi> 2.8, 9.</note> for the manifeſtation of
+his glory, to chuſe <hi>ſome</hi> to everlaſting life, and to appoint
+<hi>others</hi> to Condemnation; <pb n="17" facs="tcp:151188:21"/>nor doth he give any other
+account of his doings,<note place="margin">
+                        <hi>Jude</hi> 4. <hi>Job</hi>
+33.13.</note> but his own Sovereign Will and Pleaſure.</p>
+                  <p>Queſtion 4. <hi>But did not God chuſe the</hi> Elect <hi>for
+ſome good he ſaw in them more than in the</hi> reſt?</p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">2 <hi>Tim.</hi> 1.9.</note>
+There could be no more good <hi>foreſeen</hi> in the Creature than what God
+did <hi>fore-ordain;</hi> therefore God choſe not <hi>any</hi> for foreſeen
+good in them;<note place="margin">
+                        <hi>Rom.</hi> 9.18. <hi>Matth.</hi> 20.15.
+<hi>Job</hi> 9.12. 40.2.</note> but he had Mercy on whom he <hi>would</hi> have
+Mercy, and whom he <hi>would</hi> he harden'd; and who may ſay to him what
+doeſt thou?</p>
+                  <p>Queſtion 5. <hi>What difference then is there between the</hi>
+Elect <hi>and</hi> others, <hi>that we may know them?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer,</hi> There is <hi>no</hi> difference be<g ref="char:EOLhyphen"/>tween the
+Elect and others by Nature,<note place="margin">
+                        <hi>Rom.</hi> 3.9. <hi>Gal.</hi>
+3.10 22, 23, 24.</note> 
+                     <hi>all are alike</hi> the Children of <hi>Wrath,</hi>
+un<g ref="char:EOLhyphen"/>der <hi>Sin,</hi> ſhut up under the <hi>Law</hi> till Faith comes;<note place="margin">
+                        <hi>Rom.</hi> 11.5, 6. 1 <hi>Cor.</hi> 4.7. <hi>Gal.</hi> 1.15.
+2.16.3.24.</note> the difference is made <hi>only</hi> by Grace; which
+cauſeth the Elect in the time appointed to <hi>believe</hi> in Chriſt, that
+they may be juſtified by Faith in him.</p>
+                  <p>Queſtion 6. <hi>But if I am Elect, may I not live as I will,
+and yet be ſaved?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> All that are elected to Sal<g ref="char:EOLhyphen"/>vation, are
+elected alſo to the Means of Salvation,<note place="margin">2
+<hi>Theſſ.</hi> 2.13. 1 <hi>Pet.</hi> 1.2.</note> being choſe to be
+ſav'd <hi>thro'</hi> Faith in Chriſt, and Sanctification 
+<pb n="18" facs="tcp:151188:22"/>of the Spirit unto Obedience,<note place="margin">
+                        <hi>Rom.</hi> 6.17, 18. <hi>Acts</hi> 15.9, 11. <hi>Rom.</hi>
+8.1.14.</note> which Faith all the Elect ſhall have to purifie their hearts,
+ſo that they <hi>cannot</hi> live after the fleſh!</p>
+                  <p>Queſtion 7, <hi>Are the Elect then ſav'd</hi> for <hi>their
+Faith and Obedience?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> The Elect are not ſav'd <hi>for</hi> their
+Faith and Obedience,<note place="margin">
+                        <hi>Titus</hi> 3.5. <hi>Eph.</hi>
+2.8.9.10. <hi>Rom.</hi> 8.6, 14. <hi>Joh.</hi> 3.18.36. 10.3.26.</note> but
+they are ſav'd <hi>thro'</hi> Faith in Chriſt in a way of Obedience unto
+him; and whoſoever live all their life as they liſt, and do never come to
+Chriſt by Faith, nor obey him, they are <hi>not</hi> elected, and can
+<hi>never</hi> be ſav'd!</p>
+                  <p>Queſtion 8. <hi>But are none ſav'd</hi> with<g ref="char:EOLhyphen"/>out <hi>Faith
+in Chriſt?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> GOD hath appointed <hi>only</hi> one way of
+Salvation,<note place="margin">
+                        <hi>John</hi> 3.18.36. <hi>Eph.</hi> 2.5.8.
+<hi>Gal.</hi> 3.22.24. <hi>Acts</hi> 13.39, 48 2 <hi>Sam.</hi> 12.23.
+<hi>Pſal.</hi> 22.9, 10. 71.5, 6. <hi>Luke</hi> 1.37.44. 18.16.17.
+<hi>Rom.</hi> 4.16. <hi>Heb.</hi> 11.6.</note> and that is by Grace <hi>thro'
+faith</hi> in Jeſus Chriſt; ſo that <hi>without,</hi> or <hi>before</hi>
+Faith, none are juſtifi<g ref="char:EOLhyphen"/>ed; <hi>even</hi> the Elect that die in their
+<hi>infancy,</hi> have Faith wro't in them by the Spirit of GOD, by which they
+<hi>truſt</hi> in Chriſt; and all that do not thus come to Chriſt by true
+<hi>Faith,</hi> being <hi>already</hi> condemn'd, the Wrath of God abideth on
+them.</p>
+                  <p>Queſtion 9. <hi>How did the Elect of Old come to Chriſt
+before he was born in the World?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> The Elect of Old came to Chriſt,<note place="margin">
+                        <hi>Heb.</hi>
+13.8. <hi>Acts</hi> 15.9, 11.</note> and were ſav'd <hi>by faith</hi> in him,
+<pb n="19" facs="tcp:151188:22"/>
+                     <hi>even</hi> as we are now,<note place="margin">
+                        <hi>Rom.</hi> 3.22, 25.4.22.24. <hi>Heb.</hi> 11.13.7.25.</note>
+only they believ'd in Chriſt as <hi>to come,</hi> and we believe in Chriſt
+as <hi>already</hi> come, and now in Hea<g ref="char:EOLhyphen"/>ven at the Right Hand of God, where he
+ever liveth to make Interceſſion.</p>
+                  <p>Queſtion 10. <hi>What is that</hi> Faith <hi>by which we come
+to Chriſt?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">2 <hi>Cor.</hi> 4.17.
+<hi>Rom.</hi> 10.10, 17 1 <hi>Theſ.</hi> 1.5, 9. <hi>Phil.</hi> 3.3, 8.
+<hi>Eph.</hi> 1.13.3.17. <hi>Joh.</hi> 17.20, 21. 1 <hi>John</hi> 5.12.</note>
+Faith is a Grace wro't by the Spirit of GOD thro' his Word, in the heart of a
+poor Sinner, by which the Sinner is made to <hi>renounce</hi> all <hi>Sin,</hi>
+and other <hi>Confidence,</hi> and to <hi>truſt</hi> to, and <hi>reſt</hi>
+upon Chriſt <hi>alone</hi> for Salvation, where<g ref="char:EOLhyphen"/>by he is united to Chriſt,
+and ſo having the Son hath Life.</p>
+                  <p>Queſtion 11. <hi>What accompanies the Souls believing in
+Chriſt?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">1 <hi>Cor.</hi> 1.9. 2
+<hi>Tim.</hi> 1.9. <hi>John</hi> 1.12. <hi>Gal.</hi> 3.26. <hi>Rom.</hi>
+8.2.15.30.</note> Every one that believes in Chriſt with the heart is
+<hi>effectually call'd</hi> by the Spirit of Chriſt, and ſo is <hi>by</hi>
+Faith a <hi>Child</hi> of God, <hi>juſtified, adopted, ſanctify'd,</hi> and
+ſhall be <hi>glorify'd.</hi>
+                  </p>
+                  <p>Queſtion 12. <hi>How is a Sinner</hi> juſti<g ref="char:EOLhyphen"/>fy'd, <hi>what's
+Juſtification?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> In <hi>Juſtification</hi> the
+Righte<g ref="char:EOLhyphen"/>ouſneſſ of Chriſt is by the Free Grace of God imputed to the
+believing Sin<g ref="char:EOLhyphen"/>ner,<note place="margin">
+                        <hi>Rom.</hi> 3.21. <hi>to</hi> 27 4.23,
+24. <hi>Gal.</hi> 2.16, 3.22, 23. <hi>Acts</hi> 13.38, 39 2 <hi>Cor.</hi> 5.21.
+<hi>Iſa.</hi> 60.21. <hi>Rom</hi> 5.1.19.</note> and <hi>only</hi> to him
+that believes; for which Suretiſhip-Righteouſneſs all his Sins are
+<hi>pardon'd,</hi> and he is accounted <hi>perfeclly</hi> righteous in the
+ſight of God; and ſo being juſtified <hi>by</hi> faith, hath Peace with
+GOD.</p>
+                  <pb n="20" facs="tcp:151188:23"/>
+                  <p>Queſtion 13. <hi>How are we</hi> Adopted, <hi>what is
+Adoption?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Acts</hi> 26.18.
+<hi>Rom.</hi> 8.15.17. <hi>Gal.</hi> 4.7. <hi>John</hi> 1.12. 1 <hi>John</hi>
+3.1, 2. <hi>Matth.</hi> 3.17. 1 <hi>Cor.</hi> 3.21, 23</note> In
+<hi>Adoption</hi> GOD by his free Grace takes the poor Sinner <hi>out of</hi>
+the ſin<g ref="char:EOLhyphen"/>ful Family of the <hi>Firſt Adam,</hi> and makes him a
+<hi>Child</hi> of God, and <hi>Joint-heir</hi> with Chriſt the <hi>Second
+Adam,</hi> his well-beloved Son, in whom he hath a right to <hi>all</hi> the
+Priviledges of the Sons of GOD.</p>
+                  <p>Queſtion 14. <hi>How are Believers</hi> ſan<g ref="char:EOLhyphen"/>ctified,
+<hi>what is Sanctification?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer,</hi>
+                     <note place="margin">
+                        <hi>Rom.</hi> 8.29.
+<hi>Eph.</hi> 4.23 24. 2 <hi>Cor.</hi> 5.17. 1 Joh 4.19. 2 <hi>Cor.</hi> 7.11.
+<hi>Ezek.</hi> 36.31. <hi>Rom.</hi> 6.17, 21, 22.</note> In
+<hi>Sanctification</hi> the Holy Spirit reſtores the Image of GOD in the
+heart of a poor Sinner, making him a <hi>New</hi> Creature, renewing the Spirit
+of his Mind in all <hi>Holineſs,</hi> and true <hi>Righ<g ref="char:EOLhyphen"/>teouſneſs,</hi>
+to love God, to repent of all Sin by <hi>loathing</hi> it, and <hi>turning</hi>
+from it; and with the heart to obey the Law of God.</p>
+                  <p>Queſtion 15. <hi>When are Believers</hi> glo<g ref="char:EOLhyphen"/>rify'd,
+<hi>what's Glorification?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer; Glorification</hi> is the enjoyment of God for
+ever in Heaven,<note place="margin">
+                        <hi>John</hi> 17.5, 24. <hi>Acts</hi> 13.36.
+2 <hi>Cor.</hi> 5.1, 2, 4. <hi>Heb.</hi> 2.10. 1 <hi>Cor.</hi> 15 <hi>chap.
+Phil.</hi> 3.21. <hi>Matth.</hi> 25.34, <hi>&amp;c.</hi>
+                     </note> by them who
+have in this life done his <hi>holy will,</hi> whoſe <hi>Souls</hi> at death
+are made perfect in Holi<g ref="char:EOLhyphen"/>neſs, and their <hi>bodies</hi> being rais'd in
+Glory at the great day, both Soul and Body ſhall be united, and they being
+openly acknowledg'd by Chriſt, ſhall be for ever with the Lord!<note place="margin">1 <hi>Theſſ.</hi> 4.17</note>
+                  </p>
+               </div>
+               <div n="6" type="lesson">
+                  <pb n="21" facs="tcp:151188:23"/>
+                  <head>The <hi>Sixth</hi> Leſſon. About the <hi>Law,</hi> and
+the <hi>Goſpel.</hi>
+                  </head>
+                  <p>Queſtion 1. <hi>HOW ſhall we know the</hi> whole <hi>Will of
+God, that we may do it?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Hoſ.</hi> 8.12.
+<hi>Iſa.</hi> 8.20. <hi>Eph.</hi> 2.20. 1 <hi>Tim.</hi> 4.7. <hi>Tit.</hi>
+1.14. <hi>Gal.</hi> 6.16. 2 <hi>Tim.</hi> 3.15.17.</note> The whole Will of God
+is reveal'd in his <hi>written Word,</hi> containing all the Books of the
+<hi>Old</hi> and <hi>New Teſtament;</hi> the <hi>Apo<g ref="char:EOLhyphen"/>crypha</hi> being to be
+rejected as profane, Old Wives Fables, which turn from the Truth: This Word is
+the perfect Rule, or <hi>Canon,</hi> which is able to make even a
+<hi>Child</hi> wiſe unto Salvation, through Faith which is in Jeſus
+Chriſt.</p>
+                  <p>Queſtion 2. <hi>Why are the Scriptures call'd the</hi> Old
+<hi>and the</hi> New <hi>Teſtament?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> The Scriptures are call'd the <hi>Old</hi>
+and <hi>New</hi> Teſtament,<note place="margin">
+                        <hi>Iſa.</hi> 8.20.</note> as
+they <hi>teſtifie</hi> of the whole Will of God, both under the
+<hi>first</hi> Teſtament,<note place="margin">
+                        <hi>Heb.</hi> 8.6. to 13.</note>
+or <hi>Church-Covenant,</hi> before Chriſt came in the Fleſh, and ſince
+under the <hi>Second</hi> Teſtament, or <hi>Church-Covenant,</hi> enlarg'd
+and renew'd by Chriſt, wherein, <pb n="22" facs="tcp:151188:24"/> 
+                     <list>
+                        <item>
+                           <hi>1st,</hi>
+                           <note place="margin">
+                              <hi>Col.</hi>
+2.14.</note> All the outward <hi>Levitical</hi> Cere<g ref="char:EOLhyphen"/>monies in the
+<hi>first</hi> Church-Cove<g ref="char:EOLhyphen"/>nant are <hi>taken</hi> away.</item>
+                        <item>
+                           <hi>2dly,</hi>
+                           <note place="margin">
+                              <hi>Rom.</hi>
+15.8.</note> Yet all their Spiritual Privi<g ref="char:EOLhyphen"/>ledges in that Covenant are
+<hi>con<g ref="char:EOLhyphen"/>firm'd</hi> to us and our <hi>Seed.</hi>
+                        </item>
+                        <item>
+                           <hi>3dly,</hi>
+                           <note place="margin">2 <hi>Cor.</hi> 3.7,
+11.</note> And glorious <hi>Additions</hi> are made of Goſpel-Grace to the
+Church.</item>
+                     </list>
+                  </p>
+                  <p>Queſtion 3. <hi>How ſhall we know the Scriptures of the</hi>
+Old <hi>and</hi> New <hi>Teſtament to be the Word of God?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Mat.</hi> 16.17.
+<hi>John</hi> 16.3. 1 <hi>John</hi> 2.20. ch. 5.6. <hi>Luke</hi> 24.32. 1
+<hi>Cor.</hi> 2.14. 2 <hi>Pet.</hi> 1.19.21.</note> The Scriptures of the
+<hi>Old</hi> and <hi>New</hi> Teſtament are <hi>only</hi> known aright to be
+the Word of God, by the witneſſing of the Spirit of God in the Heart, to
+the Teſtimony which they give of their hea<g ref="char:EOLhyphen"/>venly <hi>Majeſty,</hi> and
+undoubted <hi>Divi<g ref="char:EOLhyphen"/>nity.</hi>
+                  </p>
+                  <p>Queſtion 4. <hi>How ſhall we come to un<g ref="char:EOLhyphen"/>derſtand the Mind
+of God in his Word?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">1 <hi>Tim.</hi> 4.13.15.
+<hi>Acts</hi> 37.11. <hi>John</hi> 5.39. <hi>Pſ.</hi> 119.9, 18.
+<hi>Eph.</hi> 1.17, 18. 1 <hi>Cor.</hi> 2.12, 13.</note> We ſhall come to a
+<hi>right</hi> Underſtanding of the Mind of God in his Word, by diligent
+<hi>reading, hearing, ſearching,</hi> and <hi>meditating</hi> therein, with
+conſtant <hi>Prayer</hi> to God for Wiſdom, <hi>comparing</hi> Scripture
+with Scripture by the help of the Holy Spirit.</p>
+                  <pb n="23" facs="tcp:151188:24"/>
+                  <p>Queſtion 5. <hi>But will not the Learning of Men help to
+underſtand the Word of God?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> A knowledge of the <hi>Hebrew,</hi> and the
+<hi>Greek</hi> Tongues, in which the Scriptures were <hi>first</hi> written,
+may be of uſe to underſtand the <hi>Letter</hi> of them;<note place="margin">
+                        <hi>Col.</hi> 2.8. 1 <hi>Cor.</hi> 8.1, 2. ch. 1.19, 21. ch. 2.4,
+10, 11. <hi>Luke</hi> 24.45.</note> but <hi>Philoſophy,</hi> and other
+Learning puffs up, and leads from a dependance on the Spi<g ref="char:EOLhyphen"/>rit, who
+<hi>only</hi> can open our Underſtand<g ref="char:EOLhyphen"/>ing in the Scriptures.</p>
+                  <p>Queſtion 6. <hi>What are the</hi> chief <hi>Parts of the Word
+of God?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 8.20. with
+1 <hi>Cor.</hi> 2.1. <hi>Luke</hi> 24.27. with <hi>Act.</hi> 10.43
+<hi>Gal.</hi> 3.8, 10. <hi>Pſal.</hi> 119.96.</note> The whole Word of God
+may be divided into <hi>Law</hi> and <hi>Goſpel,</hi> both which are to be
+found both in the <hi>Old</hi> Teſtament, and in the <hi>New;</hi> the
+<hi>Hiſtorical,</hi> and every <hi>other</hi> part of the Word referring, and
+having a reſpect ſome way or other, either to <hi>Law</hi> or
+<hi>Go<g ref="char:EOLhyphen"/>ſpel.</hi>
+                  </p>
+                  <p>Queſtion 7. <hi>What is the Law?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 119.96. 1
+<hi>Tim.</hi> 1.8, 9, 10. <hi>Gal.</hi> 3.10. <hi>Exod.</hi> 20. all.
+<hi>Mat.</hi> 5, 6, and 7 chap.</note> The <hi>Law</hi> conſiſts of
+<hi>all</hi> the <hi>Commands</hi> and <hi>Threatnings</hi> in <hi>all</hi> the
+Bi<g ref="char:EOLhyphen"/>ble, not only in the <hi>Old</hi> Teſtament, but in the <hi>New</hi>
+alſo, all which are briefly ſumm'd up in the <hi>Ten</hi> Commandments
+given by <hi>Moſes,</hi> and explained by <hi>Chriſt,</hi> his Apoſtles,
+and Prophets.</p>
+                  <pb n="24" facs="tcp:151188:25"/>
+                  <p>Queſtion 8. <hi>What is the Summ of the</hi> Ten
+<hi>Commandments?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Eccleſ.</hi> 12.13,
+<hi>Deut.</hi> 10.12, 13. with <hi>Mat.</hi> 22.37, 38, 39, 40. <hi>Rom.</hi>
+13.10.</note> The <hi>Ten</hi> Commandments briefly ſumm up our Duty to
+<hi>God</hi> and <hi>Man;</hi> all which are contained in theſe Words of our
+Saviour, Thou ſhalt love the <hi>Lord</hi> thy God with <hi>all</hi> thy
+Heart, and with <hi>all</hi> thy Soul, and with <hi>all</hi> thy Mind, and with
+<hi>all</hi> thy Strength; and thou ſhalt love thy <hi>Neighbour</hi> as thy
+ſelf; for <hi>Love</hi> is the fulfilling of the Law.</p>
+                  <p>Queſtion 9. <hi>How ſhall we aright under<g ref="char:EOLhyphen"/>ſtand the</hi>
+Ten <hi>Commandments?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> By knowing theſe <hi>three</hi> Things we
+may come to a good Underſtanding of the Commands: </p>
+                  <p>
+                     <hi>1st,</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 119.128.
+<hi>Deut.</hi> 6.13. with <hi>Lev.</hi> 26.1.</note> That every Command for
+<hi>Duty</hi> forbids the contrary <hi>Sin,</hi> and every Command which
+forbids <hi>Sin,</hi> obliges to the contrary <hi>Duty.</hi>
+                  </p>
+                  <p>2.<note place="margin">
+                        <hi>Rom.</hi> 7.5, 7, 8, 14. <hi>Mat.</hi>
+5.21, 22, 27, 28. <hi>Prov.</hi> 24.9. <hi>Gen.</hi> 6.5. 2 <hi>Cor.</hi>
+10.5.</note> By knowing that every Command reacheth the <hi>very Heart,</hi>
+not only forbidding the outward Sin, and commanding outward Obedience, but even
+the Thoughts and Motions of Sin <hi>within</hi> us are forbidden, and the
+Obedience of <hi>the Heart</hi> is required therein.</p>
+                  <p>3.<note place="margin">1 <hi>John</hi> 3.4. <hi>James</hi> 2.10.
+<hi>Mat.</hi> 23.23.</note> By conſidering that <hi>any</hi>
+Tranſgreſ<g ref="char:EOLhyphen"/>ſion of the Law, or the <hi>least want</hi> of whatſoever the
+Law requires is Sin.</p>
+                  <pb n="25" facs="tcp:151188:25"/>
+                  <p>Queſtion 10. <hi>Can any Man obey the Commandments</hi>
+perfectly?</p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Mat.</hi> 19, 20.
+<hi>Rom.</hi> 7.9, 10, 11.</note> Thoſe that think the Law for<g ref="char:EOLhyphen"/>bids only
+<hi>outward</hi> Sins, and know not the <hi>Spirituality</hi> of it, they think
+that they can perform <hi>all;</hi>
+                     <note place="margin">
+                        <hi>Jer.</hi> 4.14.
+<hi>Prov.</hi> 23.16. <hi>Rom.</hi> 3.10, 20. <hi>Eccl.</hi> 7.20.</note> but
+ſuch as feel that the Command reacheth the very <hi>Heart,</hi> forbidding
+every ſinful <hi>Thought,</hi> and commanding us even in our <hi>Spirit</hi>
+to fear God, they know, and are ſure, that no <hi>meer Man</hi> can perfectly
+keep the Law.</p>
+                  <p>Queſtion 11. <hi>Why then were the Com<g ref="char:EOLhyphen"/>mands given by</hi>
+Moſes, <hi>if no Man can per<g ref="char:EOLhyphen"/>fectly obey them?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer. Moſes</hi> did not give the Law as a Covenant of
+Works, that we ſhould obey it for Life,<note place="margin">
+                        <hi>Gal.</hi>
+3.24.</note> but as a <hi>Schoolmaſter</hi> for <hi>Three</hi> Ends: </p>
+                  <p>
+                     <hi>1st, To ſhew us our miſerable State by Nature,</hi>
+                     <note place="margin">
+                        <hi>Rom.</hi> 3.9, 19. chap. 7.8.</note> that we are all Sinners
+a<g ref="char:EOLhyphen"/>gainſt the holy Law of God.</p>
+                  <p>2. <hi>To make us deſpair of Salvation in our
+ſelves,</hi>
+                     <note place="margin">
+                        <hi>Rom.</hi> 3.19, 20. chap. 5.20.</note> and
+to fly to Chriſt for help.</p>
+                  <p>3. The Law was given as <hi>a Rule of Life,</hi>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 119.45, 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>5, 133.</note> to order all our Converſation by at all times.</p>
+                  <p>And this is the <hi>only</hi> right Uſe of the Law.<note place="margin">1
+<hi>Tim.</hi> 1.8.</note>
+                  </p>
+                  <pb n="26" facs="tcp:151188:26"/>
+                  <p>Queſtion 12. <hi>What is the Goſpel?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Luke</hi> 2.10, 11.
+<hi>Acts</hi> 20.24. <hi>Rom.</hi> 10.15. with <hi>Iſa.</hi> 52.7.
+<hi>Acts</hi> 13.23, 39. chap. 3.18.</note> The Goſpel is the Glad Ti<g ref="char:EOLhyphen"/>dings
+of Salvation by Jeſus Chriſt, con<g ref="char:EOLhyphen"/>taining <hi>all</hi> the free Promiſes
+and Invita<g ref="char:EOLhyphen"/>tions of Grace, whether in the <hi>Old</hi> Te<g ref="char:EOLhyphen"/>ſtament, or in the
+<hi>New.</hi>
+                  </p>
+                  <p>Queſtion 13. <hi>But are not</hi> Faith, Repen<g ref="char:EOLhyphen"/>tance,
+<hi>and</hi> Love, <hi>the Commands of the Goſpel?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Acts</hi> 20.24. 1
+<hi>Tim.</hi> 1.5, 10. <hi>Pſal.</hi> 19.7, 8, 9. <hi>Mat.</hi> 22.37, 40.
+<hi>Mark</hi> 1.15. <hi>Gal.</hi> 3.24.</note> The Goſpel <hi>ſtrictly</hi>
+taken for Glad Tidings of Salvation by Jeſus Chriſt, hath <hi>no</hi>
+Commands; Faith, Repentance, Love, and <hi>all</hi> Duties whatſoever being
+commanded by the <hi>Law;</hi> yet in preach<g ref="char:EOLhyphen"/>ing the Goſpel theſe Commands
+muſt be urg'd to lead to Chriſt.</p>
+                  <p>Queſtion 14. <hi>But is not the Goſpel a new Law, offering
+Salvation on the</hi> eaſier <hi>Terms of our</hi> ſincere Obedience?</p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Mat.</hi> 5.17, 18, 19,
+20. <hi>Luke</hi> 16.17. <hi>Phil.</hi> 3.9. <hi>Gal.</hi> 2.16, 21.</note> It
+is the Hereſie of the <hi>Papiſts,</hi> and their <hi>Followers,</hi> to
+ſay, that the good old righteous Law of God is taken away, to make room for a
+<hi>new Goſpel Law</hi> by our ſincere Obedience whereto any can be
+ſav'd; for if Righteouſneſs comes by our Obedience to <hi>any</hi> Law,
+Chriſt is dead in vain.</p>
+                  <pb n="27" facs="tcp:151188:26"/>
+                  <p>Queſtion 15. <hi>But are not Faith, Repen<g ref="char:EOLhyphen"/>tance, and New
+Obedience reckoned for our Goſpel Righteouſneſs.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Gal.</hi> 2.16.
+<hi>Rom.</hi> 3.20, 21, 22. <hi>Jer.</hi> 23.6. 1 <hi>Cor.</hi> 1.30. 2
+<hi>Cor.</hi> 7.11. <hi>Eph.</hi> 4.22, 24.</note> The <hi>only</hi>
+Righteouſneſs for which a Sinner is ſav'd, is the Righte<g ref="char:EOLhyphen"/>ouſneſs of
+Chriſt receiv'd <hi>by</hi> Faith, and <hi>imputed</hi> to us; the
+<hi>Act</hi> of Faith doth not juſtifie, but Chriſt the <hi>Object</hi> by
+Faith apprehended, and reſted upon; and this <hi>Faith</hi> is ever
+accompanied with <hi>true Re<g ref="char:EOLhyphen"/>pentance,</hi> and <hi>new Obedience.</hi>
+                  </p>
+                  <p>Queſtion 16. <hi>Then thoſe that receive the Goſpel, are
+to do good Works?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                     <note place="margin">
+                        <hi>Tit.</hi> 2.11, 12.3.8,
+14. 1 <hi>Cor.</hi> 10.31. 1 <hi>Tim.</hi> 1.5, 8, 9. <hi>Rom.</hi> 7.12, 22. 1
+<hi>Cor.</hi> 9.21. <hi>Mat.</hi> 5.19.</note> Thoſe that receive the
+Goſpel, ſhould be <hi>careful</hi> to maintain good Works, done from a
+<hi>Principle</hi> of Faith <hi>unto</hi> God's Glory; but <hi>all
+Commands</hi> for all good Works, with <hi>all Threatnings</hi> for the
+neg<g ref="char:EOLhyphen"/>lect thereof, are from the <hi>Law,</hi> which is the <hi>Rule of Life</hi>
+to all.</p>
+                  <p>Queſtion 17. <hi>How ſhall we walk ac<g ref="char:EOLhyphen"/>cording to this Rule,
+that we may glorifie God?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> Chriſt hath ſet up his
+<hi>Chur<g ref="char:EOLhyphen"/>ches,</hi>
+                     <note place="margin">1 <hi>Pet.</hi> 2.3, 5, 9, 12.
+<hi>Luke</hi> 1.6.</note> in which we ſhould walk blame<g ref="char:EOLhyphen"/>leſs in
+<hi>all</hi> the Ordinances and Com<g ref="char:EOLhyphen"/>mands <pb n="28" facs="tcp:151188:27"/>of God,<note place="margin">
+                        <hi>Mat.</hi> 12.50. <hi>Acts</hi> 2.42. 11.26. <hi>Gal.</hi>
+6.16. <hi>Mal.</hi> 4.4. 2 <hi>Cor.</hi> 9.13.</note> not being
+<hi>partial</hi> in his Law, but eſteeming the Commands as highly in the
+<hi>Old</hi> Teſtament as in the <hi>New,</hi> both being our Rule; and
+ſuch only are call'd <hi>Chriſtians</hi> in the Scripture, and to be
+accounted <hi>viſible Believers,</hi> who <hi>profeſs</hi> their Subjection
+to Chriſt in his Church.</p>
+               </div>
+               <div n="7" type="lesson">
+                  <pb n="29" facs="tcp:151188:27"/>
+                  <head>The <hi>Seventh</hi> Leſſon. About <hi>Glorifying</hi>
+God in his <hi>Churches.</hi>
+                  </head>
+                  <p>Queſtion I. <hi>WHat is the</hi> Church <hi>of
+Christ?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> The Church of Chriſt is <hi>either,</hi>
+                  </p>
+                  <p>
+                     <hi>1st,</hi> The <hi>Catholick</hi> Church,<note place="margin">
+                        <hi>Eph.</hi> 1.22, 23.5.25, 27. 2 <hi>Theſ.</hi> 2.1.</note>
+conſiſting of <hi>all,</hi> and <hi>only</hi> the <hi>Elect,</hi> which is
+and will be inviſible till the Judg<g ref="char:EOLhyphen"/>ment-Day: Or</p>
+                  <p>
+                     <hi>2dly,</hi> The <hi>viſible</hi> Church, which
+con<g ref="char:EOLhyphen"/>ſiſted <hi>first</hi> in <hi>Families,</hi>
+                     <note place="margin">
+                        <hi>Gen.</hi> 17.7, 10. <hi>Acts</hi> 7.38. <hi>Rev.</hi>
+1.11.</note> then in the <hi>whole Nation</hi> of the <hi>Jews;</hi> and
+ſince Chriſt aſcended, it conſiſts in <hi>par<g ref="char:EOLhyphen"/>ticular
+Congregations.</hi>
+                  </p>
+                  <p>Queſtion 2. <hi>What makes a</hi> Congrega<g ref="char:EOLhyphen"/>tion <hi>a true
+Church of Christ?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> More <hi>generally,</hi> and briefly
+<hi>two</hi> Things go to the due Conſtitution of every Church of Chriſt,
+Scripture <hi>Faith,</hi>
+                     <note place="margin">
+                        <hi>Col.</hi> 2.5, 6.</note> 
+                     <pb n="30" facs="tcp:151188:28"/>and <hi>Order,</hi> without <hi>both</hi> which there can
+be <hi>no</hi> true Church: But more large<g ref="char:EOLhyphen"/>ly, and <hi>particularly,</hi> to
+the regular Con<g ref="char:EOLhyphen"/>ſtitution of every true Church, theſe<note n="*" place="margin">
+                        <hi>Prov.</hi> 9.1. Theſe are the Churches <hi>Se<g ref="char:EOLhyphen"/>ven</hi>
+Pillars.</note> 
+                     <hi>Seven</hi> things are neceſſary:</p>
+                  <p>Right 
+<list>
+                        <item>
+                           <hi>Foundation,</hi>
+                        </item>
+                        <item>
+                           <hi>Matter,</hi>
+                        </item>
+                        <item>
+                           <hi>Form,</hi>
+                        </item>
+                        <item>
+                           <hi>Officers,</hi>
+                        </item>
+                        <item>
+                           <hi>Ordinances,</hi>
+                        </item>
+                        <item>
+                           <hi>Order,</hi> and</item>
+                        <item>
+                           <hi>Ends.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <div n="1" type="section">
+                     <head>SECT. I. Of the Right <hi>Foundation</hi> of a
+Church.</head>
+                     <p>Queſtion 3. <hi>What is the Right</hi> Foun<g ref="char:EOLhyphen"/>dation <hi>of a
+Church of Christ?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi> The right <hi>Foundation</hi> of every true
+Church,<note place="margin">
+                           <hi>Mat.</hi> 16.18. <hi>Iſa.</hi> 26.4. <hi>Marg.
+Eph.</hi> 2.20. 2 <hi>Pet.</hi> 3.2. <hi>Pſ</hi> 18.22. <hi>Col.</hi> 2.19. 1
+<hi>Pet.</hi> 2.4, 5. 1 <hi>Cor.</hi> 3.11.</note> is the <hi>Perſon</hi> of
+Chriſt, the <hi>Rock</hi> of Ages, on whom the Church is built, according to
+the <hi>Precepts</hi> and <hi>Prac<g ref="char:EOLhyphen"/>tices</hi> of the <hi>Apoſtles</hi> and
+<hi>Prophets;</hi> Chriſt <hi>himſelf</hi> being the <hi>only</hi> Support
+and <hi>Head</hi> thereof, on whom the Faith of the Church ſtands; and
+<hi>all</hi> other Foundations of Mo<g ref="char:EOLhyphen"/>ney, <hi>Power,</hi> and <hi>Policy,</hi>
+not being of God, will fall.</p>
+                  </div>
+                  <div n="2" type="section">
+                     <pb n="31" facs="tcp:151188:28"/>
+                     <head>SECT. II. Of the right <hi>Matter</hi> of a Church.</head>
+                     <p>Queſtion 4. <hi>What is the right</hi> Matter <hi>of a
+Church of Christ?</hi>
+                     </p>
+                     <note place="margin">
+                        <hi>Rom.</hi> 10.9, 10. 1 <hi>Cor.</hi>
+1.10.7.14. <hi>Jer.</hi> 32.39. <hi>Deut.</hi> 29.10, 12. 1 <hi>Cor.</hi>
+14.23. and 11.20. <hi>Deut.</hi> 4.37. <hi>Pſal.</hi> 102.27, 28.
+<hi>Ezek.</hi> 16.20, 21. <hi>Luke</hi> 18.16.</note>
+                     <p>
+                        <hi>Anſwer.</hi> So many profeſſing Believers of
+<hi>one</hi> Mind, and <hi>one</hi> Judgment, with their immediate
+<hi>Infant-Seed,</hi> as can con<g ref="char:EOLhyphen"/>veniently aſſemble together to worſhip
+in <hi>one</hi> place, and <hi>no</hi> more, are the only right <hi>Matter</hi>
+of a <hi>viſible</hi> Church of God; who loving the <hi>Fathers,</hi> choſe
+their <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> after them; therefore the <hi>Infant-Seed,</hi> with
+Believers, ſtand in a Relation to God in his Church; for of <hi>ſuch</hi>
+is the Kingdom of Heaven.</p>
+                  </div>
+                  <div n="3" type="section">
+                     <head>SECT. III. Of the Right <hi>Form</hi> of a Church.</head>
+                     <p>Queſt. 5. <hi>What is the right</hi> Form <hi>of a Church of
+Christ?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi>
+                        <note place="margin">
+                           <hi>Pſal.</hi> 50.5.
+<hi>Deut.</hi> 29.1, 9, 15. 2 <hi>Cor.</hi> 8.5. with 2 <hi>Chron.</hi> 23.16.
+and 34.31.</note> The only right <hi>forming</hi> of a Church is by
+<hi>Covenant,</hi> in which <hi>all</hi> do give up themſelves and their
+<hi>Children</hi> to the Lord, and to each other by his Will, to be the
+<hi>Lord's People,</hi> and to <hi>walk</hi> after him in <hi>all</hi> his
+ways; by ſuch a <hi>Covenant</hi> 
+                        <pb n="32" facs="tcp:151188:29"/>were the Churches both
+in the <hi>Old</hi> and in the <hi>New</hi> Teſtament form'd,<note place="margin">
+                           <hi>Neh.</hi> 10.1, 29. with <hi>Act</hi> 11.23. <hi>Jer.</hi>
+50.5. with <hi>Act.</hi> 9.26. <hi>Heb.</hi> 8.6.13. <hi>Eph.</hi> 4.3. with
+<hi>Ezek.</hi> 20.37. <hi>Neh.</hi> 9.38. <hi>Ezek.</hi> 43.11.</note> call'd
+in God's Word the <hi>First</hi> and <hi>Second</hi> Cove<g ref="char:EOLhyphen"/>nant, and this being
+the <hi>Bond</hi> of the Churches Peace, it is moſt expedient to have
+<hi>written</hi> in our ſight, that we may <hi>keep</hi> it, and <hi>do</hi>
+it.</p>
+                  </div>
+                  <div n="4" type="section">
+                     <head>SECT. IV. Of the right <hi>Officers</hi> of a
+Church.</head>
+                     <p>Queſt. 6. <hi>Who are the right</hi> Officers <hi>of a
+Church of Christ?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi> Chriſt hath appointed for <hi>each</hi>
+Church only <hi>two</hi> ſorts of Officers,<note place="margin">
+                           <hi>Phil.</hi>
+1.1.</note> A 
+<list>
+                           <item>
+                              <hi>Paſtor,</hi> and</item>
+                           <item>
+                              <hi>Deacon.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p> 
+                        <hi>1st,</hi>
+                        <note place="margin">
+                           <hi>Eph.</hi> 4.11. 1
+<hi>Pet.</hi> 5.2, 3. <hi>Acts</hi> 20.28. 1 <hi>Cor.</hi> 12.28.</note> A
+<hi>Paſtor,</hi> or <hi>Biſhop,</hi> not to <hi>Lord</hi> over, but to
+feed, teach, and rule <hi>that</hi> Flock to which he is related;
+aſſiſted in his Work by <hi>Elders,</hi> if need be.</p>
+                     <p>
+                        <hi>2d,</hi>
+                        <note place="margin">
+                           <hi>Acts</hi> 6.2, 3. 1
+<hi>Tim.</hi> 3. all.</note> 
+                        <hi>Deacons</hi> to take Care of the
+<hi>out<g ref="char:EOLhyphen"/>ward</hi> Affairs of the Church.</p>
+                     <p>Theſe Officers to be <hi>choſen</hi> by the Church from
+among themſelves,<note place="margin">
+                           <hi>Acts</hi> 14.23.</note> and by them
+to be <hi>ordain'd,</hi> or ſet a part to their <pb n="33" facs="tcp:151188:29"/>Work,
+with <hi>Faſting</hi> and <hi>Praying;</hi> with<g ref="char:EOLhyphen"/>out <hi>laying on</hi> of
+<hi>Hands;</hi>
+                        <note place="margin">
+                           <hi>Profit not,</hi> 1 <hi>Cor.</hi> 12.7.
+<hi>Edifie not.</hi> 1 <hi>Cor.</hi> 14.12, 26</note> that <hi>Ceremony</hi>
+being <hi>no</hi> more to be us'd, than <hi>waſhing</hi> of Feet, or
+<hi>anointing</hi> with Oyl; becauſe the glorious <hi>Gifts</hi> that once
+attended it, are long ſince ceas'd.</p>
+                  </div>
+                  <div n="5" type="section">
+                     <head>SECT. V. Of the Right <hi>Ordinances</hi> of a
+Church.</head>
+                     <p>Queſtion 7. <hi>What are the Right</hi> Ordinances <hi>of a
+Church of Chriſt?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi>
+                        <note place="margin">
+                           <hi>Typify'd Ezek.</hi>
+40.39, 40, 41, 42. <hi>chap.</hi> 46.3. <hi>Ezek.</hi> 47.12.</note> The Right
+<hi>Ordinances</hi> for the <hi>Worſhip</hi> of GOD in the Church are Eight;
+<hi>Four</hi> being more <hi>general,</hi> to be diſpens'd every
+<hi>firſt</hi> day of the Week, in which all may join; And <hi>four</hi> more
+<hi>spe<g ref="char:EOLhyphen"/>cial,</hi> to be <hi>confin'd</hi> to, or kept within the <hi>pale</hi>
+of the <hi>Church,</hi> and diſpens'd ac<g ref="char:EOLhyphen"/>cording to the <hi>Months.</hi>
+                     </p>
+                     <p>Queſtion 8. <hi>What are the Four</hi> general Ordinances
+<hi>in which</hi> all <hi>may join?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi> The Four <hi>general</hi> Ordinances are 
+<list>
+                           <item>
+                              <hi>Praiſe,</hi>
+                           </item>
+                           <item>
+                              <hi>Prayer,</hi>
+                           </item>
+                           <item>
+                              <hi>Preaching,</hi> And</item>
+                           <item>
+                              <hi>Contribution.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p> 
+                        <pb n="34" facs="tcp:151188:30"/> 
+                        <list>
+                           <item>
+                              <hi>1ſt.<hi>Praiſe,</hi>
+                              </hi>
+                              <note place="margin">
+                                 <hi>Pſal.</hi> 150.6. <hi>Eph.</hi> 5.19. <hi>Col.</hi>
+3.16.</note> By ſinging <hi>only</hi> the <hi>Pſalms, Hymns</hi> and
+<hi>Songs</hi> indited by the <hi>Spirit,</hi> and contain'd in the
+Scripture.</item>
+                           <item>2. <hi>Prayer</hi> By the help of the Spi<g ref="char:EOLhyphen"/>rit,<note place="margin">
+                                 <hi>Pſalm</hi> 65.2. <hi>Rom.</hi> 8.26. <hi>Matth.</hi> 6.7,
+9.</note> without <hi>humane forms,</hi> accord<g ref="char:EOLhyphen"/>ing to the <hi>Pattern</hi>
+given by our Lord to his Diſciples.</item>
+                           <item>3. <hi>Preaching</hi> By <hi>rightly</hi>
+dividing,<note place="margin">2 <hi>Tim.</hi> 4.2. <hi>Acts</hi> 28.23.</note>
+expounding and applying the Scrip<g ref="char:EOLhyphen"/>tures of Truth.</item>
+                           <item>4. <hi>Contribution</hi> By <hi>laying</hi> by in
+Store,<note place="margin">1 <hi>Cor.</hi> 16.1, 3. <hi>Heb.</hi> 13.16.</note>
+as God proſpers <hi>each Week,</hi> to be Communicated at the Publick
+Gatherings.</item>
+                        </list>
+                     </p>
+                     <p>Queſtion 9. <hi>What are the Four</hi> ſpe<g ref="char:EOLhyphen"/>cial Ordinances
+<hi>confin'd</hi> only <hi>to the Church?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi>
+                        <note place="margin">
+                           <hi>Matth.</hi> 7.6.
+<hi>Cant.</hi> 4.12. <hi>Matth.</hi> 16.19. <hi>Eph.</hi> 4.11, 16.
+<hi>typify'd Eze.</hi> 46.21, 24 <hi>Acts</hi> 20.28. 1 <hi>Pet.</hi>
+5.2.</note> The four <hi>special Ordinances</hi> confin'd by Chriſt
+<hi>within</hi> the Pale of his Church, are the Two <hi>Seals</hi> call'd
+Sacraments; and the Two <hi>Keys</hi> of the Church; the <hi>Seals</hi> to be
+diſpens'd to each Church by their <hi>own Paſtour only,</hi> and the
+<hi>Keys</hi> by their <hi>own Paſtour</hi> or <hi>Elders.</hi>
+                     </p>
+                     <pb n="35" facs="tcp:151188:30"/>
+                     <p>Queſtion 10. <hi>What are the</hi> Seals <hi>of the
+Church?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi> The <hi>Seals</hi> of the Church are
+<hi>Two</hi>
+                     </p>
+                     <p> 
+                        <hi>Baptiſm,</hi>
+                     </p>
+                     <p>And the</p>
+                     <p>
+                        <hi>Lords Supper.</hi> 
+                     </p>
+                     <p>
+                        <hi>1ſt. <hi>Baptiſm</hi>
+                        </hi> for every Believer or
+Church-Member,<note place="margin">
+                           <hi>Act.</hi> 2.39, 41. <hi>chap.</hi> 16.15,
+33. <hi>Iſa.</hi> 44.3. <hi>Rev.</hi> 14.1. <hi>Matth.</hi> 28.19. <hi>with
+Iſa.</hi> 52.15. 1 <hi>Cor.</hi> 10.1.2.</note> and their im<g ref="char:EOLhyphen"/>mediate
+<hi>infant-ſeed,</hi> by <hi>sprinkling</hi> or <hi>pouring</hi> Water
+<hi>only</hi> on the Face, in the Name of the Father, Son and Holy Spirit.</p>
+                     <p>2. The <hi>Lords Supper,</hi>
+                        <note place="margin">
+                           <hi>1</hi>
+Cor. <hi>11.</hi> chap. <hi>23d</hi> verſe to the end.</note> for ſuch
+<hi>only</hi> in a Church as can exa<g ref="char:EOLhyphen"/>mine themſelves, wherein <hi>Bread</hi>
+and <hi>Wine</hi> is receiv'd, according to the <hi>Inſtitution</hi> of
+Chriſt by <hi>all</hi> the Church ſitting together in the <hi>Evening</hi>
+time.</p>
+                     <p>Queſtion 11. <hi>How are</hi> Baptiſm <hi>and the</hi>
+Lord's Supper <hi>call'd</hi> Seals?</p>
+                     <p>
+                        <hi>Anſwer.</hi>
+                        <note place="margin">1 <hi>Cor.</hi> 10.2, 3,
+4</note> 
+                        <hi>Baptiſm</hi> and the <hi>Lord's Sup<g ref="char:EOLhyphen"/>per</hi> are <hi>Seals</hi>
+of the Covenant, (that is, of the <hi>Church-Covenant</hi>) as they Seal to
+<hi>all</hi> an <hi>outward</hi> relation in the Church; tho' to the <hi>Elect
+only</hi> they Seal Salva<g ref="char:EOLhyphen"/>tion: </p>
+                     <p>
+                        <pb n="36" facs="tcp:151188:31"/> 1st. <hi>Baptiſm</hi> Seals to
+<hi>Church-Members,</hi>
+                        <note place="margin">
+                           <hi>Gal.</hi> 3.27. 1 <hi>Cor.</hi>
+1.2. &amp; 7.14. <hi>with</hi> 12.12. <hi>Heb.</hi> 12.24. <hi>Ezek.</hi>
+36.25. 1 <hi>Pet.</hi> 3.21.</note> and their Seed an <hi>out<g ref="char:EOLhyphen"/>ward
+relation</hi> to Chriſt in the <hi>Church Covenant;</hi> and to the
+<hi>Elect</hi> alſo their <hi>ſaving-relation</hi> to Chriſt by his Blood
+ſprinkled, And his Spirit <hi>pour'd</hi> upon them:</p>
+                     <p>2. The <hi>Lords Supper</hi> ſeals to
+<hi>Church-Members,</hi>
+                        <note place="margin">1 <hi>Cor.</hi> 10.16, 17
+<hi>and</hi> 11.26.</note> their <hi>outward Relation</hi> to Chriſt in the
+Church; tho' <hi>only</hi> the <hi>Elect</hi> are ſeal'd to Salvation
+therein, by Chriſt's <hi>Body</hi> broken, and his <hi>Blood</hi> ſhed for
+them, <hi>truſted</hi> to by Faith,<note place="margin">
+                           <hi>Luke</hi> 22.19,
+20.</note> and <hi>ſignify'd</hi> by the Bread and Wine.</p>
+                     <p>Queſtion 12. <hi>What are the</hi> Keys <hi>of the
+Church?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi>
+                        <note place="margin">
+                           <hi>Matth.</hi>
+18.18.</note> The <hi>Keys</hi> committed by Chriſt to his Church are
+<hi>two,</hi> 
+                     </p>
+                     <p>
+                        <hi>Fellowſhip,</hi> And</p>
+                     <p>
+                        <hi>Cenſure.</hi> 
+                     </p>
+                     <p>1st, <hi>Fellowſhip,</hi>
+                        <note place="margin">
+                           <hi>Acts</hi>
+2.42. <hi>Iſa.</hi> 26.2. <hi>Jer.</hi> 51.10. <hi>Pſal.</hi> 40.9,
+10.66.16. <hi>Cor.</hi> 14.12.19, 31.34.2</note> in Church-Meet<g ref="char:EOLhyphen"/>ings, is the
+<hi>Key</hi> for <hi>opening</hi> the Door of the Church, to let in the
+<hi>Righ<g ref="char:EOLhyphen"/>teous</hi> that keep the Truth, in which their <hi>Experiences</hi>
+are given in to the Church, and the Brethren's <hi>Gifts</hi> are alſo
+exercis'd in <hi>Praying,</hi> and <hi>Prophecying.</hi>
+                     </p>
+                     <p>
+                        <pb n="37" facs="tcp:151188:31"/>2. <hi>Cenſure</hi> is the <hi>Key</hi>
+to ſhut the Door of the Church upon Offenders,<note place="margin">
+                           <hi>Matth.</hi> 11.15, 18. 1 <hi>Theſſ.</hi> 5.14. 2
+<hi>Theſſ.</hi> 3.6. 1 <hi>Cor.</hi> 5.4, 5. <hi>Pſal.</hi> 149.6, 9.
+<hi>Jude</hi> 22, 23.</note> By <hi>Admonition,</hi> By <hi>With<g ref="char:EOLhyphen"/>drawing,</hi>
+or By <hi>Cutting off</hi> in Excommunication, as the <hi>Offence</hi> doth
+require.</p>
+                  </div>
+                  <div n="6" type="section">
+                     <head>SECT. VI. Of the Right <hi>Order</hi> of a Church.</head>
+                     <p>Queſtion 13. <hi>What is the right</hi> Order <hi>of a
+Church of Christ?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi>
+                        <note place="margin">
+                           <hi>Pſal.</hi> 119.128.
+<hi>Gal.</hi> 6.16. <hi>with Mal.</hi> 4.6. 2 <hi>Tim.</hi> 3, 15, 17
+<hi>Epheſ.</hi> 2.20. 2 <hi>Pet.</hi> 3.2. <hi>Gal.</hi> 6.16,
+<hi>Iſa.</hi> 8.20. <hi>Matth.</hi> 15.9. <hi>Zech.</hi> 7.12. <hi>Jer.</hi>
+8.8, 9.</note> All the right <hi>Order</hi> of a Church muſt be taken from
+the written <hi>Word</hi> of God, <hi>both</hi> from the <hi>Old</hi>
+Teſta<g ref="char:EOLhyphen"/>ment and <hi>New,</hi> which <hi>together</hi> are the compleat Rule,
+and <hi>Canon,</hi> whereby <hi>all</hi> things muſt be order'd in the
+Church; and by this Rule, or <hi>Canon,</hi> of the <hi>Pro<g ref="char:EOLhyphen"/>phets,</hi> and
+<hi>Apoſtles,</hi> the <hi>old</hi> Teſtament and the <hi>new,</hi> the
+whole Iſrael of God muſt walk, as ever they'd have the Peace of God with
+them, therefore <hi>all</hi> Orders, Rules, and Canons given by Popes,
+Councils, or <hi>any other whatſoever,</hi> are <hi>con<g ref="char:EOLhyphen"/>fuſion,</hi> if not
+according to <hi>this</hi> Word.</p>
+                  </div>
+                  <div n="7" type="section">
+                     <pb n="38" facs="tcp:151188:32"/>
+                     <head>SECT. VII. Of the right <hi>Ends</hi> of a Church.</head>
+                     <p>Queſtion 14. <hi>What are the right</hi> Ends <hi>of a
+Church of Chriſt?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi>
+                        <note place="margin">
+                           <hi>Epheſ.</hi> 3.21. 1
+<hi>Cor.</hi> 14.26. <hi>Col.</hi> 2.3, 4. <hi>Phi.</hi> 2 5.10, 11
+<hi>Pſalm</hi> 110.3. <hi>Iſa.</hi> 45.23. <hi>with Rom.</hi> 14.11.
+<hi>Ezek.</hi> 20.37. <hi>Rev.</hi> 14.1. 1 <hi>John</hi> 4.3. <hi>Matth.</hi>
+12.30.</note> The <hi>Glory</hi> of God, and the mutual <hi>Edification</hi> of
+his Saints, without <hi>any</hi> regard to human Intereſt, are the
+<hi>only</hi> right <hi>Ends</hi> all true Churches ſhould ſet before them;
+to advance which, 'tis the Duty of every one that hath Faith in the
+<hi>Heart,</hi> openly to profeſs a willing Subjection to Chriſt in his
+Church, ſo coming under the <hi>Bond</hi> of the Church-Covenant, they take
+the Father's <hi>Mark</hi> in the Forehead, and ſuch only are
+<hi>viſible</hi> Chriſtians, for he that is not <hi>for</hi> Chriſt by
+<hi>open</hi> Profeſſion, is <hi>againſt</hi> him.</p>
+                     <p>Queſtion 15. <hi>What</hi> time <hi>hath God allot<g ref="char:EOLhyphen"/>ted to
+his Church for worſhipping him?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi>
+                        <note place="margin">
+                           <hi>Gen.</hi> 2.3.
+<hi>Ezod.</hi> 20.9, 10. <hi>Matth.</hi> 12.8. <hi>Job.</hi> 20.19, 20.
+<hi>Acts</hi> 20.7. <hi>Rev.</hi> 1.10. <hi>Pſal.</hi> 118.24. <hi>Heb.</hi>
+4.7.11. <hi>typify'd. Ezek.</hi> 43.27. <hi>and Numb.</hi> 29.35.</note> The
+Lord hath appointed in his word <hi>one</hi> Day in <hi>ſeven</hi> for his
+ſolemn Service: which Day before Chriſt's Re<g ref="char:EOLhyphen"/>ſurrection was the
+<hi>laſt</hi> Day of the Week, but is ſince by the Lord of the Sabbath
+chang'd to the <hi>Firſt</hi>-Day, in Scripture call'd the
+<hi>Lord's-Day,</hi> becauſe on that Day our Lord <hi>reſted</hi> from his
+work of Re<g ref="char:EOLhyphen"/>demption, therefore all Chriſtians ſhould keep the
+<hi>Lords-Day</hi> as a holy <hi>reſt</hi> from Sin, by attending on Chriſt
+in his pub<g ref="char:EOLhyphen"/>lick Worſhip, and <hi>reſting</hi> in his Grace.</p>
+                     <pb n="39" facs="tcp:151188:32"/>
+                     <p>Queſtion 16. <hi>But is there no</hi> other <hi>time for
+worſhipping God in publick?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi>
+                        <note place="margin">
+                           <hi>Epheſ.</hi> 5.16. 2
+<hi>Tim.</hi> 4.2. <hi>as Acts</hi> 13.42 <hi>Margent. Prov.</hi> 8.34.
+<hi>Pſal.</hi> 84.4, 10.</note> The Lord hath commanded us to <hi>redeem</hi>
+the time, and to wait on him <hi>out</hi> of Seaſon as well as <hi>in</hi>
+Seaſon; therefore every good Chriſtian ſhould improve <hi>all</hi>
+Opportunities on <hi>any</hi> Day of the Week, for <hi>hearing</hi> the Word of
+God, and <hi>worſhipping</hi> him in the <hi>Aſſemblies</hi> of his
+Saints.</p>
+                     <p>Queſtion 17. <hi>But is a Chriſtian</hi> only <hi>to
+worſhip God in</hi> publick?</p>
+                     <p>
+                        <hi>Anſwer.</hi>
+                        <note place="margin">
+                           <hi>John</hi> 5.39.
+<hi>Mat.</hi> 6.5, 6, 7. <hi>Gen.</hi> 18.19. <hi>Joſ.</hi> 24.15.
+<hi>Eph.</hi> 6.4, 18. <hi>figur'd</hi> 1 <hi>Chr.</hi> 16.40, 43 <hi>Jer.</hi>
+10.25.</note> GOD hath made it the Du<g ref="char:EOLhyphen"/>ty of <hi>all</hi> Men to
+<hi>ſtudy</hi> his holy Word, and to <hi>pray</hi> unto him in
+<hi>ſecret,</hi> as well as to <hi>worſhip</hi> him in <hi>publick;</hi>
+Therefore <hi>Ma<g ref="char:EOLhyphen"/>ſters</hi> of Families, and <hi>Parents</hi> ſhould
+in<g ref="char:EOLhyphen"/>ſtruct their <hi>Children</hi> and <hi>Servants</hi> in the holy Fear of
+God, praying <hi>daily</hi> with their Families; for the <hi>Curſe</hi> of
+God reſt<g ref="char:EOLhyphen"/>eth upon <hi>all</hi> thoſe Families that Call not upon his
+Name.</p>
+                     <p>Queſtion 18. <hi>And ſhall</hi> all <hi>in Chriſt's
+viſible Church on</hi> Earth, <hi>be glorify'd in</hi> Heaven?</p>
+                     <p>
+                        <hi>Anſwer.</hi> There are in Chriſt's viſible Church
+<hi>Two</hi> ſorts of Worſhippers: </p>
+                     <p>1st. Such as Worſhip God <hi>hypocriti<g ref="char:EOLhyphen"/>cally</hi> in the
+outward only,<note place="margin">
+                           <hi>Eze.</hi> 33.31, 33. <hi>Matth.</hi>
+24.51.</note> who ſhall be caſt down into <hi>Hell</hi> as Deceivers of
+others, and their own Souls;</p>
+                     <p>2. Such as Worſhip God <hi>uprightly,</hi>
+                        <note place="margin">
+                           <hi>John</hi> 4.24. <hi>Matth.</hi> 25.46. <hi>John</hi>
+17.24.</note> with the <hi>heart,</hi> as well as <hi>outwardly,</hi> theſe
+ſhall be <hi>glorify'd</hi> with God for ever in Heaven.</p>
+                     <pb n="40" facs="tcp:151188:33"/>
+                     <p>Queſtion 19. <hi>But</hi> when <hi>will the</hi> dif<g ref="char:EOLhyphen"/>ference
+<hi>between the</hi> good <hi>and the</hi> bad <hi>ap<g ref="char:EOLhyphen"/>pear?</hi>
+                     </p>
+                     <p>
+                        <hi>Anſwer.</hi>
+                        <note place="margin">2 <hi>Tim.</hi> 4.1.
+<hi>Dan.</hi> 2.44. <hi>Rev.</hi> 21.10.20.2. <hi>Mal.</hi> 3.17, 18.4.1.3.
+<hi>Rev.</hi> 20.12, 13, 14. 2 <hi>Cor.</hi> 5.10. <hi>Math.</hi> 13.41,
+43.25.31. <hi>to end.</hi>
+                        </note> The Word of God declares that in the
+<hi>latter</hi> day Chriſt ſhall have a glorious Kingdom, call'd the
+<hi>New Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> when Satan being Chain'd up a <hi>Thouſand</hi>
+Years, we ſhall diſcern be<g ref="char:EOLhyphen"/>tween the <hi>precious</hi> and the
+<hi>vile;</hi> and <hi>all</hi> the Dead being <hi>rais'd</hi> in the day of
+<hi>Judgment</hi> ſhall be Sentenc'd by him; the <hi>wicked</hi> into
+Everlaſting Fire, with the <hi>Devil</hi> and his <hi>Angels;</hi> but the
+<hi>righte<g ref="char:EOLhyphen"/>ous</hi> he will receive into <hi>Glory</hi> with him<g ref="char:EOLhyphen"/>ſelf for
+ever, <hi>AMEN!</hi>
+                     </p>
+                     <q>
+                        <bibl>1 <hi>John</hi> 5.21.</bibl> 
+                        <p>Little Children keep your ſelves from Idols.
+<hi>Amen!</hi>
+                        </p>
+                     </q>
+                     <q>
+                        <bibl>2, 3 <hi>John</hi> 4.</bibl> 
+                        <p>I have no greater Joy, than to hear that <hi>my Children</hi>
+walk in Truth as We have receiv'd a Commandment from the Fa<g ref="char:EOLhyphen"/>ther.</p>
+                     </q>
+                     <q>
+                        <bibl>
+                           <hi>Jude</hi> 24, 25.</bibl> 
+                        <p>Now unto him that is able to keep you from <hi>falling,</hi>
+and to preſent you <hi>faultleſs</hi> before the Preſence of his Glory
+with ex<g ref="char:EOLhyphen"/>ceeding Joy. To the only wiſe God our Saviour, be Glory, and
+Majeſty, Domi<g ref="char:EOLhyphen"/>nion, and Power, both now and ever. <hi>Amen.</hi>
+                        </p>
+                     </q>
+                     <trailer>FINIS.</trailer>
+                     <pb facs="tcp:151188:33"/>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
